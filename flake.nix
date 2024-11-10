@@ -33,6 +33,7 @@
             docker
             docker-compose
             ruby_3_2
+            rubyPackages_3_2.rugged
           ];
         };
       });
