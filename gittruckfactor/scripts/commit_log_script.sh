@@ -1,14 +1,14 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 path=$1
 currentpath=${PWD}
 clear
 now=$(date)
-echo -e $now: BEGIN git log extraction: $path \\n 
+echo -e $now: BEGIN git log extraction: $path \\n
 
 cd $path
 
-git config diff.renameLimit 999999 
+git config diff.renameLimit 999999
 
 #Extract commit information
 git log --pretty=format:"%H-;-%aN-;-%aE-;-%at-;-%cN-;-%cE-;-%ct-;-%f"  > commitinfo.log
@@ -28,4 +28,4 @@ git config --unset diff.renameLimit
 
 now=$(date)
 echo -e "Log files (commitinfo.log, commitfileinfo.log and filelist.log) were generated in $path folder:  \\n"
-echo -e $now: END git log extraction: $path \\n 
+echo -e $now: END git log extraction: $path \\n
