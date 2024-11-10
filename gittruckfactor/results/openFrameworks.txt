@@ -1,0 +1,9 @@
+TF = 6 (coverage = 47.04%)
+TF authors (Developer;Files;Percentage):
+arturo castro;1168;34.10
+Theodore Watson;357;10.42
+Nick Hardeman;307;8.96
+random;255;7.45
+Kyle McDonald;236;6.89
+Dan Rosser;235;6.86
+

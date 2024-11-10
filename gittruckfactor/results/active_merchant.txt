@@ -1,0 +1,15 @@
+TF = 12 (coverage = 49.29%)
+TF authors (Developer;Files;Percentage):
+leila-alderman;173;20.45
+codyfauser;158;18.68
+Benjamin Pollack;91;10.76
+Nathaniel Talbott;73;8.63
+Duff OMelia;47;5.56
+Alma Malambo;35;4.14
+David Santoso;34;4.02
+David Perry;28;3.31
+Sanjay Chakrapani;26;3.07
+Mark Bennett;25;2.96
+Cody Fauser;24;2.84
+cristian;23;2.72
+

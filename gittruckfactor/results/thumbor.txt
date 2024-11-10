@@ -1,0 +1,6 @@
+TF = 3 (coverage = 46.57%)
+TF authors (Developer;Files;Percentage):
+Bernardo Heynemann;345;55.02
+Ricardo L. Dani;109;17.38
+Gilles Dubuc;47;7.50
+

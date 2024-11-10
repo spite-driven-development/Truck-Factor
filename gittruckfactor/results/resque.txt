@@ -1,0 +1,5 @@
+TF = 2 (coverage = 44.95%)
+TF authors (Developer;Files;Percentage):
+Chris Wanstrath;59;54.13
+Tony Arcieri;8;7.34
+

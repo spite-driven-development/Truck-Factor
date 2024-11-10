@@ -1,0 +1,9 @@
+TF = 6 (coverage = 49.82%)
+TF authors (Developer;Files;Percentage):
+Lamont Granquist;1090;30.07
+mwrock;624;17.21
+Daniel DeLeo;433;11.94
+Tim Smith;421;11.61
+Marc A. Paradise;415;11.45
+Mike Dodge;279;7.70
+

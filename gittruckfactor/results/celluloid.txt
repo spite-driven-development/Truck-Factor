@@ -1,0 +1,5 @@
+TF = 2 (coverage = 33.72%)
+TF authors (Developer;Files;Percentage):
+Tony Arcieri;97;56.40
+//de;92;53.49
+

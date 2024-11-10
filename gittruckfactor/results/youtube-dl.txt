@@ -1,0 +1,7 @@
+TF = 4 (coverage = 42.30%)
+TF authors (Developer;Files;Percentage):
+Sergey M․;442;45.06
+Remita Amine;213;21.71
+Philipp Hagemeister;187;19.06
+Jaime Marquinez Ferrandiz;90;9.17
+

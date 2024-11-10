@@ -1,0 +1,5 @@
+TF = 2 (coverage = 47.86%)
+TF authors (Developer;Files;Percentage):
+Marijn Haverbeke;478;81.71
+Adrian Heine;62;10.60
+

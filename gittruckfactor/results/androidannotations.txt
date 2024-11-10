@@ -1,0 +1,6 @@
+TF = 3 (coverage = 39.88%)
+TF authors (Developer;Files;Percentage):
+WonderCsabo;763;67.46
+Pierre-Yves Ricau;276;24.40
+yDelouis;223;19.72
+

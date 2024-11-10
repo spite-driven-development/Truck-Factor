@@ -1,0 +1,5 @@
+TF = 2 (coverage = 42.28%)
+TF authors (Developer;Files;Percentage):
+M Sazzadul Hoque;556;67.56
+Gabriel Erzse;99;12.03
+

@@ -1,0 +1,5 @@
+TF = 2 (coverage = 20.48%)
+TF authors (Developer;Files;Percentage):
+David Lord;182;73.09
+Armin Ronacher;94;37.75
+

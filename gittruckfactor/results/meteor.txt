@@ -1,0 +1,10 @@
+TF = 7 (coverage = 49.13%)
+TF authors (Developer;Files;Percentage):
+Ben Newman;890;26.35
+David Glasser;408;12.08
+Jan Dvorak;405;11.99
+Gabriel Grubba;297;8.79
+Martijn Walraven;256;7.58
+denihs;249;7.37
+Sashko Stubailo;179;5.30
+

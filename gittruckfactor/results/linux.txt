@@ -1,0 +1,15 @@
+TF = 12 (coverage = 49.98%)
+TF authors (Developer;Files;Percentage):
+Linus Torvalds;5712;6.59
+Mauro Carvalho Chehab;2479;2.86
+Rob Herring;1313;1.51
+Thomas Gleixner;1228;1.42
+Krzysztof Kozlowski;1222;1.41
+Ben Skeggs;1211;1.40
+Arnaldo Carvalho de Melo;911;1.05
+Greg Kroah-Hartman;852;0.98
+David Howells;718;0.83
+Ian Rogers;599;0.69
+Masahiro Yamada;598;0.69
+Takashi Iwai;581;0.67
+

@@ -1,0 +1,8 @@
+TF = 5 (coverage = 48.79%)
+TF authors (Developer;Files;Percentage):
+Michael Zasso;15645;36.88
+Daniel Bevenius;4971;11.72
+Ben Noordhuis;2881;6.79
+Ryan Dahl;2325;5.48
+npm team;2028;4.78
+

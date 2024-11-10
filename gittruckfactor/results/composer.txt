@@ -1,0 +1,4 @@
+TF = 1 (coverage = 47.54%)
+TF authors (Developer;Files;Percentage):
+Jordi Boggiano;774;77.79
+

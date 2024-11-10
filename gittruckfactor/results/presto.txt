@@ -1,0 +1,24 @@
+TF = 21 (coverage = 48.96%)
+TF authors (Developer;Files;Percentage):
+Dain Sundstrom;1318;10.94
+Grzegorz Kokosinski;1086;9.02
+David Phillips;1022;8.49
+Christopher Berner;435;3.61
+Martin Traverso;425;3.53
+Rongrong Zhong;416;3.45
+Miguel Blanco Godon;399;3.31
+Andrii Rosa;376;3.12
+Lukasz Osipiuk;350;2.91
+Leiqing Cai;304;2.52
+Nikhil Collooru;289;2.40
+James Sun;278;2.31
+Haozhun Jin;272;2.26
+Karol Sobczak;252;2.09
+Michael Shang;251;2.08
+Piotr Findeisen;244;2.03
+Raghav Sethi;238;1.98
+Zhenxiao Luo;227;1.88
+Venki Korukanti;225;1.87
+Eric Hwang;219;1.82
+Rebecca Schlussel;185;1.54
+

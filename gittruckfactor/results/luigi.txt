@@ -1,0 +1,12 @@
+TF = 9 (coverage = 49.75%)
+TF authors (Developer;Files;Percentage):
+Erik Bernhardsson;74;18.59
+Arash Rouhani;58;14.57
+Stephen Pascoe;36;9.05
+Dave Buchfuhrer;22;5.53
+RDIL;21;5.28
+Joe Crobak;19;4.77
+Elias Freider;17;4.27
+Wojtek Wajerowicz;16;4.02
+Gram;12;3.02
+

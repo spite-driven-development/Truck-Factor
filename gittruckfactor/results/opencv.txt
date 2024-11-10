@@ -1,0 +1,11 @@
+TF = 8 (coverage = 47.52%)
+TF authors (Developer;Files;Percentage):
+Andrey Kamaev;2259;29.85
+Alexander Alekhin;1394;18.42
+Maksim Shabunin;544;7.19
+Dmitry Matveev;257;3.40
+Giles Payne;250;3.30
+Maxim Kostin;238;3.14
+abidrahmank;236;3.12
+OpenCV Buildbot;234;3.09
+

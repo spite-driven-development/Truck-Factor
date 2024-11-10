@@ -1,0 +1,5 @@
+TF = 2 (coverage = 42.94%)
+TF authors (Developer;Files;Percentage):
+Rich Hickey;158;45.53
+Alex Miller;77;22.19
+

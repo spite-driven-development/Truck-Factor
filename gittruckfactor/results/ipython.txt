@@ -1,0 +1,7 @@
+TF = 4 (coverage = 47.04%)
+TF authors (Developer;Files;Percentage):
+Thomas Kluyver;147;27.22
+Matthias Bussonnier;139;25.74
+Fernando Perez;123;22.78
+Brian E. Granger;117;21.67
+

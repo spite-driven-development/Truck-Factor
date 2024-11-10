@@ -1,0 +1,21 @@
+TF = 18 (coverage = 49.26%)
+TF authors (Developer;Files;Percentage):
+Peter Kokot;3931;16.01
+Nikita Popov;3025;12.32
+Dmitry Stogov;2269;9.24
+Niels Dossche;1468;5.98
+Anatol Belski;995;4.05
+Xinchen Hui;920;3.75
+Ilija Tovilo;908;3.70
+Raghubansh Kumar;867;3.53
+Christoph M. Becker;840;3.42
+Mate Kocsis;827;3.37
+Felipe Pena;817;3.33
+Gina Peter Banyard;742;3.02
+Marcus Boerger;718;2.92
+Stanislav Malyshev;702;2.86
+Antony Dovgal;696;2.84
+Greg Beaver;675;2.75
+SVN Migration;619;2.52
+Ant Phillips;590;2.40
+

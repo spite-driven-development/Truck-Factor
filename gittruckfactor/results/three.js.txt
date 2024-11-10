@@ -1,0 +1,10 @@
+TF = 7 (coverage = 46.54%)
+TF authors (Developer;Files;Percentage):
+Michael Herzog;1520;28.53
+Mr.doob;927;17.40
+Gregg Tavares;688;12.92
+sunag;584;10.96
+munrocket@pm.me;291;5.46
+Angela Busato;228;4.28
+Tristan VALCKE;205;3.85
+

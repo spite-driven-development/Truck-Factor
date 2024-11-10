@@ -1,0 +1,30 @@
+TF = 27 (coverage = 49.84%)
+TF authors (Developer;Files;Percentage):
+Marc Alff;1027;7.00
+Omer BarNir;996;6.79
+Murthy Narkedimilli;918;6.26
+hhunger@hh-nb.hungers;830;5.66
+magnus@neptunus.(none);753;5.13
+Bernhard Ocklin;665;4.53
+Horst Hunger;434;2.96
+bk@work.mysql.com;433;2.95
+Jimmy Yang;409;2.79
+monty@donna.mysql.com;352;2.40
+Magnus Blaudd;346;2.36
+Kent Boortz;320;2.18
+akhil.mohan@oracle.com;312;2.13
+Satya B;277;1.89
+Jonas Oreland;258;1.76
+Mattias Jonsson;251;1.71
+Alfranio Correia;248;1.69
+shuichi@mysql.com;244;1.66
+guilhem@mysql.com;238;1.62
+bar@mysql.com;229;1.56
+Sven Sandberg;214;1.46
+Sergey Vojtovich;203;1.38
+lars@mysql.com;199;1.36
+Steaphan Greene;194;1.32
+Marko Makela;192;1.31
+Sergei Golubchik;192;1.31
+Luis Soares;190;1.29
+
