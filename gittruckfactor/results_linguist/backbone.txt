@@ -1,0 +1,6 @@
+TF = 3 (coverage = 38.89%)
+TF authors (Developer;Files;Percentage):
+Jeremy Ashkenas;9;50.00
+Brad Dunbar;5;27.78
+Julian Gonggrijp;5;27.78
+

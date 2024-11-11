@@ -1,0 +1,9 @@
+TF = 6 (coverage = 48.10%)
+TF authors (Developer;Files;Percentage):
+Vadim Pisarevsky;818;25.67
+Alexander Alekhin;663;20.80
+Dmitry Matveev;227;7.12
+Maksim Shabunin;185;5.80
+Giles Payne;165;5.18
+Yashas Samaga B L;120;3.77
+

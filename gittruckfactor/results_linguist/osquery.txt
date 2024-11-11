@@ -1,0 +1,7 @@
+TF = 4 (coverage = 42.05%)
+TF authors (Developer;Files;Percentage):
+Alessandro Gario;527;28.41
+Teddy Reed;398;21.46
+Stefano Bonicatti;282;15.20
+Max Kareta;234;12.61
+

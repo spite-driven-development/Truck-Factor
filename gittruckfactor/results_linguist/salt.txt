@@ -1,0 +1,11 @@
+TF = 8 (coverage = 48.28%)
+TF authors (Developer;Files;Percentage):
+Pedro Algarvio;1143;45.20
+Twangboy;298;11.78
+Thomas S Hatch;184;7.28
+Gareth J. Greenaway;182;7.20
+Erik Johnson;176;6.96
+Daniel A. Wozniak;149;5.89
+Kirill Ponomarev;118;4.67
+MKLeb;115;4.55
+

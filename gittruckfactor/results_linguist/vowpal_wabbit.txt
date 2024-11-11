@@ -1,0 +1,6 @@
+TF = 3 (coverage = 45.61%)
+TF authors (Developer;Files;Percentage):
+Jack Gerrits;595;52.80
+Markus Cozowicz;182;16.15
+John Langford;124;11.00
+

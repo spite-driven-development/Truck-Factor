@@ -1,0 +1,13 @@
+TF = 10 (coverage = 46.90%)
+TF authors (Developer;Files;Percentage):
+Adam Murdoch;4808;28.72
+Lorant Pinter;1455;8.69
+Daz DeBoer;1268;7.57
+Cedric Champeau;1068;6.38
+Luke Daley;971;5.80
+Gary Hale;951;5.68
+Stefan Wolf;826;4.93
+Thomas Tresansky;812;4.85
+Paul Merlin;798;4.77
+Rodrigo B. de Oliveira;680;4.06
+

@@ -1,0 +1,8 @@
+TF = 5 (coverage = 47.67%)
+TF authors (Developer;Files;Percentage):
+Mitch.Garnaat;145;21.14
+Mitch Garnaat;120;17.49
+Daniel Lindsley;81;11.81
+James Saryerwinnie;79;11.52
+kyleknap;60;8.75
+

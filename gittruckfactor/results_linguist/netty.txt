@@ -1,0 +1,6 @@
+TF = 3 (coverage = 46.72%)
+TF authors (Developer;Files;Percentage):
+Trustin Lee;1011;34.20
+Norman Maurer;953;32.24
+Scott Mitchell;330;11.16
+

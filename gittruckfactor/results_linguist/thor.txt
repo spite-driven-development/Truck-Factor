@@ -1,0 +1,5 @@
+TF = 2 (coverage = 34.18%)
+TF authors (Developer;Files;Percentage):
+Jose Valim;48;60.76
+Erik Michaels-Ober;21;26.58
+

@@ -1,0 +1,7 @@
+TF = 4 (coverage = 45.69%)
+TF authors (Developer;Files;Percentage):
+Scott Gonzalez;203;51.52
+Richard Worth;87;22.08
+Jorn Zaefferer;48;12.18
+Alexander Schmitz;44;11.17
+

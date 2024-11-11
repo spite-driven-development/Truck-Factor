@@ -1,0 +1,5 @@
+TF = 2 (coverage = 38.61%)
+TF authors (Developer;Files;Percentage):
+Alexander Mankuta;126;62.38
+Felipe Doria;73;36.14
+

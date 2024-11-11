@@ -1,0 +1,15 @@
+TF = 12 (coverage = 47.88%)
+TF authors (Developer;Files;Percentage):
+Tim Graham;321;12.28
+Russell Keith-Magee;276;10.55
+Claude Paroz;264;10.10
+Preston Timmons;215;8.22
+Adrian Holovaty;208;7.95
+Aymeric Augustin;185;7.07
+Jannis Leidel;143;5.47
+Mariusz Felisiak;112;4.28
+Justin Bronn;108;4.13
+django-bot;95;3.63
+Malcolm Tredinnick;83;3.17
+Jacob Kaplan-Moss;77;2.94
+

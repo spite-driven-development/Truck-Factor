@@ -1,0 +1,4 @@
+TF = 1 (coverage = 6.53%)
+TF authors (Developer;Files;Percentage):
+Eugeny Pankov;281;96.56
+

@@ -1,0 +1,7 @@
+TF = 4 (coverage = 44.98%)
+TF authors (Developer;Files;Percentage):
+Xoppa;1118;35.31
+badlogicgames;1080;34.11
+Tomski;293;9.25
+sterwill@tinfig.com;277;8.75
+

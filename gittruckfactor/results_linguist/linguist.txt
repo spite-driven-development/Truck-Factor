@@ -1,0 +1,8 @@
+TF = 5 (coverage = 43.42%)
+TF authors (Developer;Files;Percentage):
+Joshua Peek;21;27.63
+Vicent Marti;18;23.68
+Arfon Smith;11;14.47
+Colin Seymour;8;10.53
+John Gardner;8;10.53
+

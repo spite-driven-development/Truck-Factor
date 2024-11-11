@@ -1,0 +1,4 @@
+TF = 1 (coverage = 16.33%)
+TF authors (Developer;Files;Percentage):
+David Karnok;1831;97.08
+

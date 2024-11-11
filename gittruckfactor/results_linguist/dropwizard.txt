@@ -1,0 +1,8 @@
+TF = 5 (coverage = 47.24%)
+TF authors (Developer;Files;Percentage):
+Coda Hale;255;28.68
+Jochen Schalanda;166;18.67
+Artem Prigoda;133;14.96
+Russell Howe;90;10.12
+Steffen Nießing;65;7.31
+

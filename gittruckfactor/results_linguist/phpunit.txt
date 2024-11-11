@@ -1,0 +1,4 @@
+TF = 1 (coverage = 19.76%)
+TF authors (Developer;Files;Percentage):
+Sebastian Bergmann;2276;94.68
+

@@ -1,0 +1,24 @@
+TF = 21 (coverage = 49.81%)
+TF authors (Developer;Files;Percentage):
+James M Snell;553;8.93
+Anna Henningsen;498;8.04
+Joyee Cheung;472;7.62
+Rich Trott;312;5.04
+Ben Noordhuis;258;4.16
+Ruben Bridgewater;240;3.87
+Antoine du Hamel;234;3.78
+Colin Ihrig;232;3.74
+Ryan Dahl;205;3.31
+Gabriel Schulhof;168;2.71
+Isaac Z. Schlueter;167;2.70
+Chengzhong Wu;151;2.44
+Robert Nagy;129;2.08
+Fedor Indutny;126;2.03
+Michael Zasso;116;1.87
+Matteo Collina;97;1.57
+Rafael Gonzaga;97;1.57
+Anatoli Papirovski;88;1.42
+Brian White;80;1.29
+Yagiz Nizipli;77;1.24
+Tobias Nießen;74;1.19
+

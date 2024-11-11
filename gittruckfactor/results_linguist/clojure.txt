@@ -1,0 +1,5 @@
+TF = 2 (coverage = 38.97%)
+TF authors (Developer;Files;Percentage):
+Rich Hickey;156;47.13
+Stuart Halloway;74;22.36
+

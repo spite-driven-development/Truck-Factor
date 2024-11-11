@@ -1,0 +1,8 @@
+TF = 5 (coverage = 44.57%)
+TF authors (Developer;Files;Percentage):
+Samuel Giddins;200;54.35
+Andre Arko;95;25.82
+David Rodriguez;78;21.20
+Carl Lerche;24;6.52
+Asutosh Palai;24;6.52
+

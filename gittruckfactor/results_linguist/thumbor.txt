@@ -1,0 +1,5 @@
+TF = 2 (coverage = 41.00%)
+TF authors (Developer;Files;Percentage):
+Bernardo Heynemann;174;72.80
+Cezar Sa Espinola;38;15.90
+

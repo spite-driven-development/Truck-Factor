@@ -1,0 +1,5 @@
+TF = 2 (coverage = 34.91%)
+TF authors (Developer;Files;Percentage):
+Michał Gołebiowski-Owczarek;189;59.43
+Timmy Willison;108;33.96
+

@@ -1,0 +1,16 @@
+TF = 13 (coverage = 49.07%)
+TF authors (Developer;Files;Percentage):
+Murthy Narkedimilli;876;19.04
+magnus@neptunus.(none);679;14.76
+Bernhard Ocklin;624;13.57
+bk@work.mysql.com;347;7.54
+Kent Boortz;310;6.74
+Jimmy Yang;269;5.85
+Marc Alff;216;4.70
+Jonas Oreland;193;4.20
+Magnus Blaudd;152;3.30
+Satya B;141;3.07
+monty@donna.mysql.com;125;2.72
+jonas@perch.ndb.mysql.com;121;2.63
+Sergey Vojtovich;100;2.17
+
