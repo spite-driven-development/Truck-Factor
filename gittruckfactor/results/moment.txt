@@ -1,0 +1,4 @@
+TF = 1 (coverage = 45.28%)
+TF authors (Developer;Files;Percentage):
+Iskren Chernev;668;84.03
+

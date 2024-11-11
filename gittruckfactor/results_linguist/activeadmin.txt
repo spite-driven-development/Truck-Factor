@@ -1,0 +1,6 @@
+TF = 3 (coverage = 41.31%)
+TF authors (Developer;Files;Percentage):
+Greg Bell;164;41.31
+David Rodriguez;128;32.24
+Javier Julio;71;17.88
+

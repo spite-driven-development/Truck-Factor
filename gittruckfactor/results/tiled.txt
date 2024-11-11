@@ -1,0 +1,4 @@
+TF = 1 (coverage = 32.18%)
+TF authors (Developer;Files;Percentage):
+Thorbjørn Lindeijer;1483;85.52
+

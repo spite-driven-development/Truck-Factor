@@ -1,0 +1,5 @@
+TF = 2 (coverage = 24.23%)
+TF authors (Developer;Files;Percentage):
+Bjarni R. Einarsson;522;62.00
+Brennan Novak;300;35.63
+

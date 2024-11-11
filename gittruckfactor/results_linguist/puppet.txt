@@ -1,0 +1,9 @@
+TF = 6 (coverage = 49.48%)
+TF authors (Developer;Files;Percentage):
+Luke Kanies;425;19.19
+Henrik Lindberg;389;17.56
+Josh Cooper;365;16.48
+Thomas Hallgren;225;10.16
+Michael Hashizume;170;7.67
+Andrew Parker;111;5.01
+

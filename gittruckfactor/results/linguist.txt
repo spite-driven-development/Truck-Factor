@@ -1,0 +1,12 @@
+TF = 9 (coverage = 49.62%)
+TF authors (Developer;Files;Percentage):
+Colin Seymour;564;13.29
+Arfon Smith;458;10.79
+John Gardner;453;10.67
+Adam Stankiewicz;322;7.59
+Joshua Peek;310;7.30
+Paul Chaignon;246;5.80
+Adam Roben;114;2.69
+Lars Brinkhoff;70;1.65
+Santiago M. Mola;66;1.56
+

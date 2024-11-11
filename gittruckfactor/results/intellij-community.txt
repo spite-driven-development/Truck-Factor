@@ -1,0 +1,34 @@
+TF = 31 (coverage = 49.60%)
+TF authors (Developer;Files;Percentage):
+Anna Kozlova;19523;8.37
+Tagir Valeev;12558;5.38
+Alexey Sedunov;11461;4.91
+Dmitry Jemerov;11002;4.72
+Dmitry Gridin;9956;4.27
+Toshiaki Kameyama;7436;3.19
+Yan Zhulanow;7088;3.04
+Valentin Kipyatkov;5944;2.55
+Alexey Kudravtsev;5931;2.54
+Bas Leijdekkers;5580;2.39
+Mikhail Golubev;5568;2.39
+peter;5457;2.34
+Maxim Shafirov;5321;2.28
+Vladimir Krivosheev;4551;1.95
+Semyon Proshev;4191;1.80
+nik;4066;1.74
+Ilya Kirillov;3771;1.62
+Alexey Belkov;3721;1.59
+Vladimir Dolzhenko;3428;1.47
+Roman Shevchenko;3416;1.46
+Mikhail Glukhikh;3379;1.45
+Daniil Ovchinnikov;3367;1.44
+andrey.matveev;3329;1.43
+Rustam Vishnyakov;3191;1.37
+Max Medvedev;3125;1.34
+Bart van Helvert;2897;1.24
+Dmitriy.Panov;2721;1.17
+Mikhail Pyltsin;2635;1.13
+Aleksei.Cherepanov;2513;1.08
+Dmitry Avdeev;2501;1.07
+Konstantin Bulenkov;2423;1.04
+

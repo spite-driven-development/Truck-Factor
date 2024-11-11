@@ -1,0 +1,20 @@
+TF = 17 (coverage = 49.18%)
+TF authors (Developer;Files;Percentage):
+David Heinemeier Hansson;507;10.83
+Rafael Mendonca Franca;273;5.83
+Jose Valim;250;5.34
+Ryuta Kamizono;239;5.10
+Jeremy Kemper;234;5.00
+Piotr Sarnacki;221;4.72
+Aaron Patterson;189;4.04
+George Claghorn;126;2.69
+Jonathan Hefner;124;2.65
+Łukasz Strzałkowski;123;2.63
+Sean Griffin;121;2.58
+Xavier Noria;107;2.28
+Jean Boussier;106;2.26
+Pratik Naik;96;2.05
+Jon Leighton;95;2.03
+Joshua Peek;95;2.03
+eileencodes;85;1.82
+

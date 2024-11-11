@@ -1,0 +1,10 @@
+TF = 7 (coverage = 46.88%)
+TF authors (Developer;Files;Percentage):
+Koichi ITO;735;46.82
+Jonas Arvidsson;188;11.97
+Bozhidar Batsov;179;11.40
+Lee Dohm;120;7.64
+fatkodima;105;6.69
+Daniel Vandersluis;84;5.35
+Yuji Nakayama;83;5.29
+

@@ -1,0 +1,5 @@
+TF = 2 (coverage = 45.26%)
+TF authors (Developer;Files;Percentage):
+Vladimir Agafonkin;107;46.12
+Jon Koops;73;31.47
+

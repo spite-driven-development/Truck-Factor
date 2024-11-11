@@ -1,0 +1,7 @@
+TF = 4 (coverage = 44.19%)
+TF authors (Developer;Files;Percentage):
+Mathieu Virbel;620;52.59
+Akshay Arora;213;18.07
+Matt Einhorn;115;9.75
+dessant;90;7.63
+

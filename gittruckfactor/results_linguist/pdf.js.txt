@@ -1,0 +1,5 @@
+TF = 2 (coverage = 28.57%)
+TF authors (Developer;Files;Percentage):
+Jonas Jenwald;258;54.20
+Calixte Denizet;239;50.21
+

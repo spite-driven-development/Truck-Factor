@@ -1,0 +1,11 @@
+TF = 8 (coverage = 49.17%)
+TF authors (Developer;Files;Percentage):
+Junio C Hamano;1222;27.77
+Jeff King;479;10.88
+Johannes Schindelin;314;7.13
+Nguyen Thai Ngoc Duy;206;4.68
+Ævar Arnfjorð Bjarmason;199;4.52
+Elijah Newren;184;4.18
+Eric Sunshine;172;3.91
+Patrick Steinhardt;123;2.79
+

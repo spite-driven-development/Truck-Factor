@@ -1,0 +1,22 @@
+TF = 19 (coverage = 48.79%)
+TF authors (Developer;Files;Percentage):
+Evan Purkhiser;1332;8.60
+David Cramer;1242;8.02
+Katie Byers;996;6.43
+Billy Vong;789;5.09
+Armin Ronacher;718;4.63
+Markus Unterwaditzer;700;4.52
+Priscila Oliveira;656;4.23
+anthony sottile;643;4.15
+Mark Story;619;3.99
+Dan Fuller;550;3.55
+Ryan Albrecht;528;3.41
+josh;498;3.21
+Stephen Cefali;471;3.04
+Scott Cooper;397;2.56
+Jonas;382;2.47
+Marcos Gaeta;335;2.16
+Tony Xiao;331;2.14
+George Gritsouk;279;1.80
+Leander Rodrigues;258;1.67
+

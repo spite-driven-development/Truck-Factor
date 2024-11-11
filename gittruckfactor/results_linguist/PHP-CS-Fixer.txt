@@ -1,0 +1,6 @@
+TF = 3 (coverage = 45.65%)
+TF authors (Developer;Files;Percentage):
+Dariusz Ruminski;717;57.22
+SpacePossum;374;29.85
+Kuba Werłos;316;25.22
+

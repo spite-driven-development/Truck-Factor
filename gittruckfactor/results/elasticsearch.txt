@@ -1,0 +1,36 @@
+TF = 33 (coverage = 49.53%)
+TF authors (Developer;Files;Percentage):
+Nik Everett;3049;9.56
+Mark Vieira;2059;6.46
+Ryan Ernst;1897;5.95
+Costin Leau;1269;3.98
+kimchy;1156;3.62
+Benjamin Trent;935;2.93
+Martijn van Groningen;911;2.86
+David Turner;833;2.61
+Simon Willnauer;798;2.50
+Tim Vernum;768;2.41
+Rene Groeschke;711;2.23
+Colin Goodheart-Smithe;650;2.04
+James Rodewig;631;1.98
+Dimitris Athanasiou;603;1.89
+Luca Cavanna;588;1.84
+Armin Braun;585;1.83
+Jason Tedor;553;1.73
+Igor Motov;545;1.71
+Ioannis Kakavas;535;1.68
+uboness;528;1.66
+Jack Conradson;508;1.59
+Jake Landis;491;1.54
+David Kyle;469;1.47
+Ignacio Vera;469;1.47
+Yang Wang;464;1.46
+Lee Hinman;460;1.44
+tlrx;455;1.43
+Adrien Grand;451;1.41
+Clinton Gormley;441;1.38
+Nhat Nguyen;420;1.32
+David Roberts;419;1.31
+Chris Hegarty;381;1.19
+David Pilato;373;1.17
+

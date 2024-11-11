@@ -1,0 +1,7 @@
+TF = 4 (coverage = 41.02%)
+TF authors (Developer;Files;Percentage):
+Mitchell Hashimoto;678;26.93
+sophia;608;24.15
+Chris Roberts;463;18.39
+hashicorp-copywrite[bot];399;15.85
+

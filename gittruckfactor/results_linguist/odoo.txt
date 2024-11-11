@@ -1,0 +1,49 @@
+TF = 46 (coverage = 49.55%)
+TF authors (Developer;Files;Percentage):
+Thibault Delavallee;735;6.07
+Sebastien Theys;483;3.99
+Aaron Bohy;340;2.81
+william-andre;336;2.77
+Julien Mougenot;335;2.77
+tsm-odoo;287;2.37
+david;268;2.21
+Gery Debongnie;259;2.14
+Pierre Pulinckx (pipu);257;2.12
+qsm-odoo;226;1.87
+Yannick Tivisse;219;1.81
+Lucas Lefevre;216;1.78
+Alexandre Kuhn;200;1.65
+xmo-odoo;199;1.64
+William Braeckman;184;1.52
+vlst-odoo;183;1.51
+Gorash;173;1.43
+Victor Feyens;166;1.37
+std-odoo;162;1.34
+Romain Estievenart;161;1.33
+Xavier BOL (xbo);155;1.28
+mcm-odoo;153;1.26
+Aurelien Warnon;152;1.25
+Jeremy Kersten;134;1.11
+gawa-odoo;133;1.10
+Jerome Maes;128;1.06
+Joseph Caburnay;118;0.97
+Raphael Collet;116;0.96
+Fabien Pinckaers;109;0.90
+Maryam Kia;107;0.88
+Arnold Moyaux;104;0.86
+Romeo Fragomeli;103;0.85
+Kevin Baptiste;102;0.84
+Patrick Hoste;100;0.83
+rde;96;0.79
+FrancoisGe;94;0.78
+David Beguin;92;0.76
+Mathieu Duckerts-Antoine;91;0.75
+Laurent Smet;89;0.73
+Samuel Degueldre;86;0.71
+Pierre Paridans;85;0.70
+Martin Trigaux;84;0.69
+Remy Voet (ryv);81;0.67
+Maxime de Neuville;79;0.65
+Josse Colpaert;74;0.61
+Katherine Zaoral;74;0.61
+

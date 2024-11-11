@@ -1,0 +1,13 @@
+TF = 10 (coverage = 49.68%)
+TF authors (Developer;Files;Percentage):
+Pedro Algarvio;1558;32.88
+Shane Lee;456;9.62
+Seth House;390;8.23
+Thomas S Hatch;335;7.07
+Daniel A. Wozniak;290;6.12
+Erik Johnson;277;5.85
+SaltyCharles;269;5.68
+Gareth J. Greenaway;196;4.14
+Jacob Hammons;187;3.95
+Ch3LL;185;3.90
+

@@ -1,0 +1,16 @@
+TF = 13 (coverage = 47.76%)
+TF authors (Developer;Files;Percentage):
+Allon Moritz;695;18.62
+Andrew Eddie;355;9.51
+infograf768;340;9.11
+wilsonge;306;8.20
+Michael Babker;304;8.14
+Fedir Zinchuk;256;6.86
+dGrammatiko;251;6.72
+Rob Schley;238;6.38
+Brian Teeman;213;5.71
+Hannes Papenberg;189;5.06
+Johan Janssens;184;4.93
+Harald Leithner;177;4.74
+Lodder;143;3.83
+

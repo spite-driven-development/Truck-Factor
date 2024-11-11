@@ -1,0 +1,8 @@
+TF = 5 (coverage = 48.98%)
+TF authors (Developer;Files;Percentage):
+Adrian Sampson;89;45.41
+Sarunas Nejus;41;20.92
+Thomas Scholtes;17;8.67
+Bruno Cauet;15;7.65
+Fabrice Laporte;9;4.59
+

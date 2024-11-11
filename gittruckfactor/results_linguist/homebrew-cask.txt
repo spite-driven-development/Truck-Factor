@@ -1,0 +1,11 @@
+TF = 8 (coverage = 49.94%)
+TF authors (Developer;Files;Percentage):
+Patrick Linnane;1938;26.94
+Bevan Kay;651;9.05
+Miccal Matthews;573;7.96
+BrewTestBot;527;7.32
+Randall;509;7.07
+Vitor Galvao;332;4.61
+Roland Walker;306;4.25
+Justin Krehel;293;4.07
+

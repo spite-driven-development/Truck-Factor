@@ -1,0 +1,8 @@
+TF = 5 (coverage = 45.02%)
+TF authors (Developer;Files;Percentage):
+Cheng Zhao;366;33.42
+Samuel Attard;202;18.45
+Jeremy Apthorp;147;13.42
+Milan Burda;118;10.78
+Shelley Vohr;98;8.95
+

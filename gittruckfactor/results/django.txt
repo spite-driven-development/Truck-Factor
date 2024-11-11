@@ -1,0 +1,8 @@
+TF = 5 (coverage = 49.96%)
+TF authors (Developer;Files;Percentage):
+Claude Paroz;2624;38.36
+Jannis Leidel;1893;27.67
+Tim Graham;654;9.56
+Russell Keith-Magee;445;6.50
+Mariusz Felisiak;368;5.38
+

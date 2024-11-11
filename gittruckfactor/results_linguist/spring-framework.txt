@@ -1,0 +1,7 @@
+TF = 4 (coverage = 45.68%)
+TF authors (Developer;Files;Percentage):
+Arjen Poutsma;2445;27.51
+Juergen Hoeller;1859;20.92
+rstoyanchev;1817;20.45
+Sam Brannen;1661;18.69
+

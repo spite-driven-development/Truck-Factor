@@ -1,0 +1,11 @@
+TF = 8 (coverage = 47.47%)
+TF authors (Developer;Files;Percentage):
+Robert Jackson;372;31.31
+Peter Wagenet;213;17.93
+Chris Garrett;120;10.10
+Chris Krycho;112;9.43
+Tobias Bieniek;103;8.67
+Chad Hietala;73;6.14
+Jean du Plessis;71;5.98
+Godfrey Chan;61;5.13
+

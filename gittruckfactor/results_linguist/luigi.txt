@@ -1,0 +1,16 @@
+TF = 13 (coverage = 48.09%)
+TF authors (Developer;Files;Percentage):
+Erik Bernhardsson;51;19.47
+Arash Rouhani;45;17.18
+Dave Buchfuhrer;17;6.49
+Elias Freider;13;4.96
+Guillaume Poulin;10;3.82
+Gram;8;3.05
+Uldis Barbans;7;2.67
+Jon Aslund;7;2.67
+Jake Feala;7;2.67
+Stephen Pascoe;6;2.29
+Marcel R;6;2.29
+Joe Ennever;6;2.29
+Ran Tavory;6;2.29
+

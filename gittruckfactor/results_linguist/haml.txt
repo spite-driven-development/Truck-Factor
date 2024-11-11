@@ -1,0 +1,4 @@
+TF = 1 (coverage = 40.53%)
+TF authors (Developer;Files;Percentage):
+Takashi Kokubun;173;91.05
+

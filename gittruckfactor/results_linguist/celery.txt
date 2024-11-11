@@ -1,0 +1,4 @@
+TF = 1 (coverage = 37.35%)
+TF authors (Developer;Files;Percentage):
+Ask Solem;250;73.53
+

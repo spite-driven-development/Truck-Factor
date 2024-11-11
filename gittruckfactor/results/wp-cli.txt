@@ -1,0 +1,5 @@
+TF = 2 (coverage = 47.89%)
+TF authors (Developer;Files;Percentage):
+Alain Schlesser;154;59.00
+danielbachhuber;77;29.50
+

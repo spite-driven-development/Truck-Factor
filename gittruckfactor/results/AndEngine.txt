@@ -1,0 +1,4 @@
+TF = 1 (coverage = 7.12%)
+TF authors (Developer;Files;Percentage):
+Nicolas Gramlich;631;99.84
+

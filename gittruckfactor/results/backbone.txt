@@ -1,0 +1,5 @@
+TF = 2 (coverage = 39.84%)
+TF authors (Developer;Files;Percentage):
+Jeremy Ashkenas;58;47.15
+Patrick Kettner;40;32.52
+

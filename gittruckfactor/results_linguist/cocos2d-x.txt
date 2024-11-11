@@ -1,0 +1,10 @@
+TF = 7 (coverage = 45.61%)
+TF authors (Developer;Files;Percentage):
+James Chen;684;28.08
+minggo;417;17.12
+yangxiao;296;12.15
+Ricardo Quesada;214;8.78
+andyque;181;7.43
+Arnold;172;7.06
+samuele3hu;120;4.93
+

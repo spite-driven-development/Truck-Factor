@@ -1,0 +1,5 @@
+TF = 2 (coverage = 43.14%)
+TF authors (Developer;Files;Percentage):
+Matias Aguirre;92;90.20
+Stas Kravets;15;14.71
+

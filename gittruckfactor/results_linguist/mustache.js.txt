@@ -1,0 +1,5 @@
+TF = 2 (coverage = 46.00%)
+TF authors (Developer;Files;Percentage):
+Michael Jackson;105;70.00
+Phillip Johnsen;52;34.67
+

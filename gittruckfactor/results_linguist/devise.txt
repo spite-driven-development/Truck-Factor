@@ -1,0 +1,5 @@
+TF = 2 (coverage = 32.10%)
+TF authors (Developer;Files;Percentage):
+Jose Valim;151;62.14
+Carlos Antonio da Silva;65;26.75
+

@@ -1,0 +1,5 @@
+TF = 2 (coverage = 11.33%)
+TF authors (Developer;Files;Percentage):
+Dan LaRocque;752;54.97
+Matthias Broecheler;675;49.34
+

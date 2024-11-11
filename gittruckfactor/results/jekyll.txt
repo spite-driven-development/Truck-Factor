@@ -1,0 +1,8 @@
+TF = 5 (coverage = 46.07%)
+TF authors (Developer;Files;Percentage):
+Parker Moore;303;37.22
+Ashwin Maroli;143;17.57
+Frank Taillandier;74;9.09
+Mike Neumegen;49;6.02
+Tom Preston-Werner;42;5.16
+

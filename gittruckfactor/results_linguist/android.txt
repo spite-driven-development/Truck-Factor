@@ -1,0 +1,5 @@
+TF = 2 (coverage = 37.54%)
+TF authors (Developer;Files;Percentage):
+Meisolsson;162;51.10
+Kevin Sawicki;140;44.16
+

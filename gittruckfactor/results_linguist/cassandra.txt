@@ -1,0 +1,13 @@
+TF = 10 (coverage = 48.98%)
+TF authors (Developer;Files;Percentage):
+Benedict Elliott Smith;775;15.11
+Sam Tunnicliffe;442;8.62
+Mike Adamson;407;7.94
+Sylvain Lebresne;405;7.90
+Jonathan Ellis;365;7.12
+Alex Petrov;256;4.99
+David Capwell;231;4.50
+Marcus Eriksson;223;4.35
+Andres de la Pena;202;3.94
+Jacek Lewandowski;180;3.51
+

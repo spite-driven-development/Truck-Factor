@@ -1,0 +1,9 @@
+TF = 6 (coverage = 49.11%)
+TF authors (Developer;Files;Percentage):
+Kevin Ansfield;969;20.94
+Hannah Wolfe;571;12.34
+Fabien 'egg' O'Carroll;562;12.14
+Simon Backx;548;11.84
+Daniel Lockyer;485;10.48
+Rishabh;475;10.26
+

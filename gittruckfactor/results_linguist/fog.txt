@@ -1,0 +1,10 @@
+TF = 7 (coverage = 45.31%)
+TF authors (Developer;Files;Percentage):
+Paul Thornthwaite;235;23.98
+Nick Osborn;201;20.51
+geemus;132;13.47
+Rodrigo Estebanez;81;8.27
+Kaloyan Kanev;70;7.14
+Decklin Foster;64;6.53
+Lincoln Stoll;52;5.31
+

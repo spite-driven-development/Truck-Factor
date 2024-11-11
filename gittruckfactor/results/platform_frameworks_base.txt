@@ -1,0 +1,20 @@
+TF = 17 (coverage = 49.89%)
+TF authors (Developer;Files;Percentage):
+Bill Yi;5588;10.47
+Alan Viverette;3219;6.03
+The Android Open Source Project;2684;5.03
+Adam Powell;1598;2.99
+Justin Ho;1476;2.76
+Baligh Uddin;1236;2.32
+Dirk Dougherty;1210;2.27
+Geoff Mendal;1128;2.11
+Daniel Sandler;1118;2.09
+Jean-Baptiste Queru;974;1.82
+Jeff Sharkey;894;1.67
+Gilles Debunne;892;1.67
+John Reck;720;1.35
+Adam Lesinski;698;1.31
+Winson Chiu;693;1.30
+yangren;633;1.19
+Fabian Kozynski;622;1.17
+

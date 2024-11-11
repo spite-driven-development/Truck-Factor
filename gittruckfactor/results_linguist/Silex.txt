@@ -1,0 +1,4 @@
+TF = 1 (coverage = 36.28%)
+TF authors (Developer;Files;Percentage):
+Fabien Potencier;98;86.73
+

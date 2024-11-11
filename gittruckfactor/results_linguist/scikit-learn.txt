@@ -1,0 +1,16 @@
+TF = 13 (coverage = 49.52%)
+TF authors (Developer;Files;Percentage):
+Thomas J. Fan;130;17.83
+Adrin Jalali;76;10.43
+Andreas Mueller;67;9.19
+Guillaume Lemaitre;55;7.54
+jeremiedbb;45;6.17
+Fabian Pedregosa;42;5.76
+Nicolas Hug;40;5.49
+Loic Esteve;40;5.49
+Olivier Grisel;39;5.35
+Gael Varoquaux;34;4.66
+Lars Buitinck;28;3.84
+Arnaud Joly;22;3.02
+Joel Nothman;20;2.74
+

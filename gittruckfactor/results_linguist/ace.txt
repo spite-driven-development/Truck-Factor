@@ -1,0 +1,5 @@
+TF = 2 (coverage = 49.33%)
+TF authors (Developer;Files;Percentage):
+nightwing;681;75.84
+Fabian Jakobs;150;16.70
+

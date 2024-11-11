@@ -1,0 +1,4092 @@
+{
+  "AndEngine.txt": {
+    "coverage": 6.51,
+    "developers": [
+      {
+        "file_count": 599,
+        "name": "Nicolas Gramlich",
+        "percentage": 100.0
+      }
+    ],
+    "tf": 1
+  },
+  "CodeMirror.txt": {
+    "coverage": 49.12,
+    "developers": [
+      {
+        "file_count": 406,
+        "name": "Marijn Haverbeke",
+        "percentage": 79.45
+      },
+      {
+        "file_count": 62,
+        "name": "Adrian Heine",
+        "percentage": 12.13
+      }
+    ],
+    "tf": 2
+  },
+  "Faker.txt": {
+    "coverage": 49.49,
+    "developers": [
+      {
+        "file_count": 73,
+        "name": "Francois Zaninotto",
+        "percentage": 12.41
+      },
+      {
+        "file_count": 56,
+        "name": "Andreas Moller",
+        "percentage": 9.52
+      },
+      {
+        "file_count": 35,
+        "name": "John Was",
+        "percentage": 5.95
+      },
+      {
+        "file_count": 30,
+        "name": "r3h6",
+        "percentage": 5.1
+      },
+      {
+        "file_count": 18,
+        "name": "Owen Kieffer-Jones",
+        "percentage": 3.06
+      },
+      {
+        "file_count": 12,
+        "name": "newman101",
+        "percentage": 2.04
+      },
+      {
+        "file_count": 11,
+        "name": "Hugo Fonseca",
+        "percentage": 1.87
+      },
+      {
+        "file_count": 10,
+        "name": "Tz-Huan Huang",
+        "percentage": 1.7
+      },
+      {
+        "file_count": 10,
+        "name": "Yerlen Zhubangaliyev",
+        "percentage": 1.7
+      },
+      {
+        "file_count": 9,
+        "name": "ppelgrims",
+        "percentage": 1.53
+      },
+      {
+        "file_count": 9,
+        "name": "Bernhard Essl",
+        "percentage": 1.53
+      },
+      {
+        "file_count": 8,
+        "name": "Roman 'pomaxa' Shvets",
+        "percentage": 1.36
+      },
+      {
+        "file_count": 8,
+        "name": "andela-celisha-wigwe",
+        "percentage": 1.36
+      }
+    ],
+    "tf": 13
+  },
+  "Flashlight.txt": {
+    "coverage": 36.36,
+    "developers": [
+      {
+        "file_count": 769,
+        "name": "nate-parrott",
+        "percentage": 65.95
+      }
+    ],
+    "tf": 1
+  },
+  "Ghost.txt": {
+    "coverage": 49.11,
+    "developers": [
+      {
+        "file_count": 969,
+        "name": "Kevin Ansfield",
+        "percentage": 20.94
+      },
+      {
+        "file_count": 571,
+        "name": "Hannah Wolfe",
+        "percentage": 12.34
+      },
+      {
+        "file_count": 562,
+        "name": "Fabien 'egg' O'Carroll",
+        "percentage": 12.14
+      },
+      {
+        "file_count": 548,
+        "name": "Simon Backx",
+        "percentage": 11.84
+      },
+      {
+        "file_count": 485,
+        "name": "Daniel Lockyer",
+        "percentage": 10.48
+      },
+      {
+        "file_count": 475,
+        "name": "Rishabh",
+        "percentage": 10.26
+      }
+    ],
+    "tf": 6
+  },
+  "Leaflet.txt": {
+    "coverage": 45.26,
+    "developers": [
+      {
+        "file_count": 107,
+        "name": "Vladimir Agafonkin",
+        "percentage": 46.12
+      },
+      {
+        "file_count": 73,
+        "name": "Jon Koops",
+        "percentage": 31.47
+      }
+    ],
+    "tf": 2
+  },
+  "Mailpile.txt": {
+    "coverage": 48.86,
+    "developers": [
+      {
+        "file_count": 357,
+        "name": "Bjarni R. Einarsson",
+        "percentage": 73.91
+      }
+    ],
+    "tf": 1
+  },
+  "PHP-CS-Fixer.txt": {
+    "coverage": 45.65,
+    "developers": [
+      {
+        "file_count": 717,
+        "name": "Dariusz Ruminski",
+        "percentage": 57.22
+      },
+      {
+        "file_count": 374,
+        "name": "SpacePossum",
+        "percentage": 29.85
+      },
+      {
+        "file_count": 316,
+        "name": "Kuba Wer\u0142os",
+        "percentage": 25.22
+      }
+    ],
+    "tf": 3
+  },
+  "Ratchet.txt": {
+    "coverage": 5.97,
+    "developers": [
+      {
+        "file_count": 67,
+        "name": "Chris Boden",
+        "percentage": 100.0
+      }
+    ],
+    "tf": 1
+  },
+  "RxJava.txt": {
+    "coverage": 16.33,
+    "developers": [
+      {
+        "file_count": 1831,
+        "name": "David Karnok",
+        "percentage": 97.08
+      }
+    ],
+    "tf": 1
+  },
+  "Silex.txt": {
+    "coverage": 36.28,
+    "developers": [
+      {
+        "file_count": 98,
+        "name": "Fabien Potencier",
+        "percentage": 86.73
+      }
+    ],
+    "tf": 1
+  },
+  "ThinkUp.txt": {
+    "coverage": 49.73,
+    "developers": [
+      {
+        "file_count": 957,
+        "name": "Gina Trapani",
+        "percentage": 86.53
+      }
+    ],
+    "tf": 1
+  },
+  "Validation.txt": {
+    "coverage": 46.14,
+    "developers": [
+      {
+        "file_count": 633,
+        "name": "Henrique Moody",
+        "percentage": 75.09
+      }
+    ],
+    "tf": 1
+  },
+  "WordPress.txt": {
+    "coverage": 49.76,
+    "developers": [
+      {
+        "file_count": 587,
+        "name": "Sergey Biryukov",
+        "percentage": 23.09
+      },
+      {
+        "file_count": 401,
+        "name": "desrosj",
+        "percentage": 15.77
+      },
+      {
+        "file_count": 296,
+        "name": "Andrew Ozz",
+        "percentage": 11.64
+      },
+      {
+        "file_count": 289,
+        "name": "ryan",
+        "percentage": 11.37
+      },
+      {
+        "file_count": 264,
+        "name": "gziolo",
+        "percentage": 10.39
+      },
+      {
+        "file_count": 123,
+        "name": "Peter Wilson",
+        "percentage": 4.84
+      },
+      {
+        "file_count": 119,
+        "name": "Gary Pendergast",
+        "percentage": 4.68
+      },
+      {
+        "file_count": 115,
+        "name": "Scott Taylor",
+        "percentage": 4.52
+      },
+      {
+        "file_count": 104,
+        "name": "youknowriad",
+        "percentage": 4.09
+      },
+      {
+        "file_count": 98,
+        "name": "nacin",
+        "percentage": 3.86
+      }
+    ],
+    "tf": 10
+  },
+  "ace.txt": {
+    "coverage": 49.33,
+    "developers": [
+      {
+        "file_count": 681,
+        "name": "nightwing",
+        "percentage": 75.84
+      },
+      {
+        "file_count": 150,
+        "name": "Fabian Jakobs",
+        "percentage": 16.7
+      }
+    ],
+    "tf": 2
+  },
+  "active_merchant.txt": {
+    "coverage": 49.57,
+    "developers": [
+      {
+        "file_count": 172,
+        "name": "leila-alderman",
+        "percentage": 21.31
+      },
+      {
+        "file_count": 154,
+        "name": "codyfauser",
+        "percentage": 19.08
+      },
+      {
+        "file_count": 87,
+        "name": "Benjamin Pollack",
+        "percentage": 10.78
+      },
+      {
+        "file_count": 69,
+        "name": "Nathaniel Talbott",
+        "percentage": 8.55
+      },
+      {
+        "file_count": 46,
+        "name": "Duff OMelia",
+        "percentage": 5.7
+      },
+      {
+        "file_count": 35,
+        "name": "Alma Malambo",
+        "percentage": 4.34
+      },
+      {
+        "file_count": 33,
+        "name": "David Santoso",
+        "percentage": 4.09
+      },
+      {
+        "file_count": 26,
+        "name": "David Perry",
+        "percentage": 3.22
+      },
+      {
+        "file_count": 25,
+        "name": "Sanjay Chakrapani",
+        "percentage": 3.1
+      },
+      {
+        "file_count": 24,
+        "name": "Mark Bennett",
+        "percentage": 2.97
+      },
+      {
+        "file_count": 22,
+        "name": "Cody Fauser",
+        "percentage": 2.73
+      },
+      {
+        "file_count": 19,
+        "name": "cristian",
+        "percentage": 2.35
+      }
+    ],
+    "tf": 12
+  },
+  "activeadmin.txt": {
+    "coverage": 41.31,
+    "developers": [
+      {
+        "file_count": 164,
+        "name": "Greg Bell",
+        "percentage": 41.31
+      },
+      {
+        "file_count": 128,
+        "name": "David Rodriguez",
+        "percentage": 32.24
+      },
+      {
+        "file_count": 71,
+        "name": "Javier Julio",
+        "percentage": 17.88
+      }
+    ],
+    "tf": 3
+  },
+  "ajenti.txt": {
+    "coverage": 6.53,
+    "developers": [
+      {
+        "file_count": 281,
+        "name": "Eugeny Pankov",
+        "percentage": 96.56
+      }
+    ],
+    "tf": 1
+  },
+  "android.txt": {
+    "coverage": 37.54,
+    "developers": [
+      {
+        "file_count": 162,
+        "name": "Meisolsson",
+        "percentage": 51.1
+      },
+      {
+        "file_count": 140,
+        "name": "Kevin Sawicki",
+        "percentage": 44.16
+      }
+    ],
+    "tf": 2
+  },
+  "androidannotations.txt": {
+    "coverage": 40.85,
+    "developers": [
+      {
+        "file_count": 602,
+        "name": "WonderCsabo",
+        "percentage": 65.22
+      },
+      {
+        "file_count": 232,
+        "name": "Pierre-Yves Ricau",
+        "percentage": 25.14
+      },
+      {
+        "file_count": 209,
+        "name": "yDelouis",
+        "percentage": 22.64
+      }
+    ],
+    "tf": 3
+  },
+  "ansible.txt": {
+    "coverage": 47.09,
+    "developers": [
+      {
+        "file_count": 1066,
+        "name": "Matt Clay",
+        "percentage": 54.98
+      },
+      {
+        "file_count": 243,
+        "name": "Brian Coca",
+        "percentage": 12.53
+      },
+      {
+        "file_count": 176,
+        "name": "Jordan Borean",
+        "percentage": 9.08
+      },
+      {
+        "file_count": 164,
+        "name": "James Cammarata",
+        "percentage": 8.46
+      },
+      {
+        "file_count": 163,
+        "name": "Toshio Kuratomi",
+        "percentage": 8.41
+      }
+    ],
+    "tf": 5
+  },
+  "assetic.txt": {
+    "coverage": 38.06,
+    "developers": [
+      {
+        "file_count": 183,
+        "name": "Kris Wallsmith",
+        "percentage": 74.09
+      }
+    ],
+    "tf": 1
+  },
+  "atom-shell.txt": {
+    "coverage": 45.02,
+    "developers": [
+      {
+        "file_count": 366,
+        "name": "Cheng Zhao",
+        "percentage": 33.42
+      },
+      {
+        "file_count": 202,
+        "name": "Samuel Attard",
+        "percentage": 18.45
+      },
+      {
+        "file_count": 147,
+        "name": "Jeremy Apthorp",
+        "percentage": 13.42
+      },
+      {
+        "file_count": 118,
+        "name": "Milan Burda",
+        "percentage": 10.78
+      },
+      {
+        "file_count": 98,
+        "name": "Shelley Vohr",
+        "percentage": 8.95
+      }
+    ],
+    "tf": 5
+  },
+  "backbone.txt": {
+    "coverage": 38.89,
+    "developers": [
+      {
+        "file_count": 9,
+        "name": "Jeremy Ashkenas",
+        "percentage": 50.0
+      },
+      {
+        "file_count": 5,
+        "name": "Brad Dunbar",
+        "percentage": 27.78
+      },
+      {
+        "file_count": 5,
+        "name": "Julian Gonggrijp",
+        "percentage": 27.78
+      }
+    ],
+    "tf": 3
+  },
+  "backup.txt": {
+    "coverage": 42.99,
+    "developers": [
+      {
+        "file_count": 166,
+        "name": "Brian D. Burns",
+        "percentage": 77.57
+      },
+      {
+        "file_count": 61,
+        "name": "Michael van Rooijen",
+        "percentage": 28.5
+      }
+    ],
+    "tf": 2
+  },
+  "beets.txt": {
+    "coverage": 48.98,
+    "developers": [
+      {
+        "file_count": 89,
+        "name": "Adrian Sampson",
+        "percentage": 45.41
+      },
+      {
+        "file_count": 41,
+        "name": "Sarunas Nejus",
+        "percentage": 20.92
+      },
+      {
+        "file_count": 17,
+        "name": "Thomas Scholtes",
+        "percentage": 8.67
+      },
+      {
+        "file_count": 15,
+        "name": "Bruno Cauet",
+        "percentage": 7.65
+      },
+      {
+        "file_count": 9,
+        "name": "Fabrice Laporte",
+        "percentage": 4.59
+      }
+    ],
+    "tf": 5
+  },
+  "bitcoin.txt": {
+    "coverage": 49.15,
+    "developers": [
+      {
+        "file_count": 1031,
+        "name": "MarcoFalke",
+        "percentage": 60.12
+      },
+      {
+        "file_count": 202,
+        "name": "Pieter Wuille",
+        "percentage": 11.78
+      },
+      {
+        "file_count": 128,
+        "name": "Wladimir J. van der Laan",
+        "percentage": 7.46
+      },
+      {
+        "file_count": 109,
+        "name": "Mike Hearn",
+        "percentage": 6.36
+      }
+    ],
+    "tf": 4
+  },
+  "boto.txt": {
+    "coverage": 47.67,
+    "developers": [
+      {
+        "file_count": 145,
+        "name": "Mitch.Garnaat",
+        "percentage": 21.14
+      },
+      {
+        "file_count": 120,
+        "name": "Mitch Garnaat",
+        "percentage": 17.49
+      },
+      {
+        "file_count": 81,
+        "name": "Daniel Lindsley",
+        "percentage": 11.81
+      },
+      {
+        "file_count": 79,
+        "name": "James Saryerwinnie",
+        "percentage": 11.52
+      },
+      {
+        "file_count": 60,
+        "name": "kyleknap",
+        "percentage": 8.75
+      }
+    ],
+    "tf": 5
+  },
+  "bundler.txt": {
+    "coverage": 44.57,
+    "developers": [
+      {
+        "file_count": 200,
+        "name": "Samuel Giddins",
+        "percentage": 54.35
+      },
+      {
+        "file_count": 95,
+        "name": "Andre Arko",
+        "percentage": 25.82
+      },
+      {
+        "file_count": 78,
+        "name": "David Rodriguez",
+        "percentage": 21.2
+      },
+      {
+        "file_count": 24,
+        "name": "Carl Lerche",
+        "percentage": 6.52
+      },
+      {
+        "file_count": 24,
+        "name": "Asutosh Palai",
+        "percentage": 6.52
+      }
+    ],
+    "tf": 5
+  },
+  "bup.txt": {
+    "coverage": 35.32,
+    "developers": [
+      {
+        "file_count": 177,
+        "name": "Rob Browning",
+        "percentage": 88.06
+      }
+    ],
+    "tf": 1
+  },
+  "caffe.txt": {
+    "coverage": 47.96,
+    "developers": [
+      {
+        "file_count": 135,
+        "name": "Evan Shelhamer",
+        "percentage": 29.03
+      },
+      {
+        "file_count": 114,
+        "name": "Jeff Donahue",
+        "percentage": 24.52
+      },
+      {
+        "file_count": 70,
+        "name": "Yangqing Jia",
+        "percentage": 15.05
+      },
+      {
+        "file_count": 31,
+        "name": "Ronghang Hu",
+        "percentage": 6.67
+      },
+      {
+        "file_count": 26,
+        "name": "Sergio",
+        "percentage": 5.59
+      }
+    ],
+    "tf": 5
+  },
+  "capnproto.txt": {
+    "coverage": 17.0,
+    "developers": [
+      {
+        "file_count": 312,
+        "name": "Kenton Varda",
+        "percentage": 88.39
+      }
+    ],
+    "tf": 1
+  },
+  "capybara.txt": {
+    "coverage": 32.57,
+    "developers": [
+      {
+        "file_count": 296,
+        "name": "Thomas Walpole",
+        "percentage": 96.42
+      }
+    ],
+    "tf": 1
+  },
+  "cassandra.txt": {
+    "coverage": 48.98,
+    "developers": [
+      {
+        "file_count": 775,
+        "name": "Benedict Elliott Smith",
+        "percentage": 15.11
+      },
+      {
+        "file_count": 442,
+        "name": "Sam Tunnicliffe",
+        "percentage": 8.62
+      },
+      {
+        "file_count": 407,
+        "name": "Mike Adamson",
+        "percentage": 7.94
+      },
+      {
+        "file_count": 405,
+        "name": "Sylvain Lebresne",
+        "percentage": 7.9
+      },
+      {
+        "file_count": 365,
+        "name": "Jonathan Ellis",
+        "percentage": 7.12
+      },
+      {
+        "file_count": 256,
+        "name": "Alex Petrov",
+        "percentage": 4.99
+      },
+      {
+        "file_count": 231,
+        "name": "David Capwell",
+        "percentage": 4.5
+      },
+      {
+        "file_count": 223,
+        "name": "Marcus Eriksson",
+        "percentage": 4.35
+      },
+      {
+        "file_count": 202,
+        "name": "Andres de la Pena",
+        "percentage": 3.94
+      },
+      {
+        "file_count": 180,
+        "name": "Jacek Lewandowski",
+        "percentage": 3.51
+      }
+    ],
+    "tf": 10
+  },
+  "celery.txt": {
+    "coverage": 37.35,
+    "developers": [
+      {
+        "file_count": 250,
+        "name": "Ask Solem",
+        "percentage": 73.53
+      }
+    ],
+    "tf": 1
+  },
+  "celluloid.txt": {
+    "coverage": 34.03,
+    "developers": [
+      {
+        "file_count": 82,
+        "name": "//de",
+        "percentage": 56.94
+      },
+      {
+        "file_count": 80,
+        "name": "Tony Arcieri",
+        "percentage": 55.56
+      }
+    ],
+    "tf": 2
+  },
+  "chef.txt": {
+    "coverage": 45.69,
+    "developers": [
+      {
+        "file_count": 1017,
+        "name": "Lamont Granquist",
+        "percentage": 41.9
+      },
+      {
+        "file_count": 348,
+        "name": "Tim Smith",
+        "percentage": 14.34
+      },
+      {
+        "file_count": 333,
+        "name": "Daniel DeLeo",
+        "percentage": 13.72
+      },
+      {
+        "file_count": 226,
+        "name": "Mike Dodge",
+        "percentage": 9.31
+      },
+      {
+        "file_count": 222,
+        "name": "Marc A. Paradise",
+        "percentage": 9.15
+      },
+      {
+        "file_count": 201,
+        "name": "Adam Jacob",
+        "percentage": 8.28
+      },
+      {
+        "file_count": 182,
+        "name": "John Keiser",
+        "percentage": 7.5
+      }
+    ],
+    "tf": 7
+  },
+  "clojure.txt": {
+    "coverage": 38.97,
+    "developers": [
+      {
+        "file_count": 156,
+        "name": "Rich Hickey",
+        "percentage": 47.13
+      },
+      {
+        "file_count": 74,
+        "name": "Stuart Halloway",
+        "percentage": 22.36
+      }
+    ],
+    "tf": 2
+  },
+  "cocos2d-x.txt": {
+    "coverage": 45.61,
+    "developers": [
+      {
+        "file_count": 684,
+        "name": "James Chen",
+        "percentage": 28.08
+      },
+      {
+        "file_count": 417,
+        "name": "minggo",
+        "percentage": 17.12
+      },
+      {
+        "file_count": 296,
+        "name": "yangxiao",
+        "percentage": 12.15
+      },
+      {
+        "file_count": 214,
+        "name": "Ricardo Quesada",
+        "percentage": 8.78
+      },
+      {
+        "file_count": 181,
+        "name": "andyque",
+        "percentage": 7.43
+      },
+      {
+        "file_count": 172,
+        "name": "Arnold",
+        "percentage": 7.06
+      },
+      {
+        "file_count": 120,
+        "name": "samuele3hu",
+        "percentage": 4.93
+      }
+    ],
+    "tf": 7
+  },
+  "composer.txt": {
+    "coverage": 41.39,
+    "developers": [
+      {
+        "file_count": 480,
+        "name": "Jordi Boggiano",
+        "percentage": 89.89
+      }
+    ],
+    "tf": 1
+  },
+  "cucumber.txt": {
+    "developers": []
+  },
+  "d3.txt": {
+    "coverage": 20.0,
+    "developers": [
+      {
+        "file_count": 5,
+        "name": "Mike Bostock",
+        "percentage": 100.0
+      }
+    ],
+    "tf": 1
+  },
+  "devise.txt": {
+    "coverage": 32.1,
+    "developers": [
+      {
+        "file_count": 151,
+        "name": "Jose Valim",
+        "percentage": 62.14
+      },
+      {
+        "file_count": 65,
+        "name": "Carlos Antonio da Silva",
+        "percentage": 26.75
+      }
+    ],
+    "tf": 2
+  },
+  "diaspora.txt": {
+    "coverage": 49.94,
+    "developers": [
+      {
+        "file_count": 329,
+        "name": "Benjamin Neff",
+        "percentage": 20.49
+      },
+      {
+        "file_count": 307,
+        "name": "Steffen van Bergerem",
+        "percentage": 19.12
+      },
+      {
+        "file_count": 237,
+        "name": "danielgrippi",
+        "percentage": 14.76
+      },
+      {
+        "file_count": 159,
+        "name": "maxwell",
+        "percentage": 9.9
+      },
+      {
+        "file_count": 137,
+        "name": "Jonne Ha\u00df",
+        "percentage": 8.53
+      },
+      {
+        "file_count": 128,
+        "name": "cmrd Senya",
+        "percentage": 7.97
+      },
+      {
+        "file_count": 96,
+        "name": "Raphael",
+        "percentage": 5.98
+      }
+    ],
+    "tf": 7
+  },
+  "django-cms.txt": {
+    "coverage": 45.12,
+    "developers": [
+      {
+        "file_count": 192,
+        "name": "Vadim Sikora",
+        "percentage": 26.02
+      },
+      {
+        "file_count": 133,
+        "name": "Patrick Lauber",
+        "percentage": 18.02
+      },
+      {
+        "file_count": 127,
+        "name": "Jonas Obrist",
+        "percentage": 17.21
+      },
+      {
+        "file_count": 99,
+        "name": "Paulo",
+        "percentage": 13.41
+      },
+      {
+        "file_count": 93,
+        "name": "Iacopo Spalletti",
+        "percentage": 12.6
+      }
+    ],
+    "tf": 5
+  },
+  "django-social-auth.txt": {
+    "coverage": 43.14,
+    "developers": [
+      {
+        "file_count": 92,
+        "name": "Matias Aguirre",
+        "percentage": 90.2
+      },
+      {
+        "file_count": 15,
+        "name": "Stas Kravets",
+        "percentage": 14.71
+      }
+    ],
+    "tf": 2
+  },
+  "django.txt": {
+    "coverage": 47.88,
+    "developers": [
+      {
+        "file_count": 321,
+        "name": "Tim Graham",
+        "percentage": 12.28
+      },
+      {
+        "file_count": 276,
+        "name": "Russell Keith-Magee",
+        "percentage": 10.55
+      },
+      {
+        "file_count": 264,
+        "name": "Claude Paroz",
+        "percentage": 10.1
+      },
+      {
+        "file_count": 215,
+        "name": "Preston Timmons",
+        "percentage": 8.22
+      },
+      {
+        "file_count": 208,
+        "name": "Adrian Holovaty",
+        "percentage": 7.95
+      },
+      {
+        "file_count": 185,
+        "name": "Aymeric Augustin",
+        "percentage": 7.07
+      },
+      {
+        "file_count": 143,
+        "name": "Jannis Leidel",
+        "percentage": 5.47
+      },
+      {
+        "file_count": 112,
+        "name": "Mariusz Felisiak",
+        "percentage": 4.28
+      },
+      {
+        "file_count": 108,
+        "name": "Justin Bronn",
+        "percentage": 4.13
+      },
+      {
+        "file_count": 95,
+        "name": "django-bot",
+        "percentage": 3.63
+      },
+      {
+        "file_count": 83,
+        "name": "Malcolm Tredinnick",
+        "percentage": 3.17
+      },
+      {
+        "file_count": 77,
+        "name": "Jacob Kaplan-Moss",
+        "percentage": 2.94
+      }
+    ],
+    "tf": 12
+  },
+  "dropwizard.txt": {
+    "coverage": 47.24,
+    "developers": [
+      {
+        "file_count": 255,
+        "name": "Coda Hale",
+        "percentage": 28.68
+      },
+      {
+        "file_count": 166,
+        "name": "Jochen Schalanda",
+        "percentage": 18.67
+      },
+      {
+        "file_count": 133,
+        "name": "Artem Prigoda",
+        "percentage": 14.96
+      },
+      {
+        "file_count": 90,
+        "name": "Russell Howe",
+        "percentage": 10.12
+      },
+      {
+        "file_count": 65,
+        "name": "Steffen Nie\u00dfing",
+        "percentage": 7.31
+      }
+    ],
+    "tf": 5
+  },
+  "drupal.txt": {
+    "coverage": 43.43,
+    "developers": [
+      {
+        "file_count": 7400,
+        "name": "Alex Pott",
+        "percentage": 59.28
+      },
+      {
+        "file_count": 5343,
+        "name": "catch",
+        "percentage": 42.8
+      }
+    ],
+    "tf": 2
+  },
+  "elasticsearch.txt": {
+    "coverage": 49.89,
+    "developers": [
+      {
+        "file_count": 1863,
+        "name": "Mark Vieira",
+        "percentage": 8.8
+      },
+      {
+        "file_count": 1684,
+        "name": "Nik Everett",
+        "percentage": 7.96
+      },
+      {
+        "file_count": 1230,
+        "name": "Ryan Ernst",
+        "percentage": 5.81
+      },
+      {
+        "file_count": 1107,
+        "name": "Shay Banon",
+        "percentage": 5.23
+      },
+      {
+        "file_count": 1069,
+        "name": "Costin Leau",
+        "percentage": 5.05
+      },
+      {
+        "file_count": 790,
+        "name": "Benjamin Trent",
+        "percentage": 3.73
+      },
+      {
+        "file_count": 737,
+        "name": "Simon Willnauer",
+        "percentage": 3.48
+      },
+      {
+        "file_count": 718,
+        "name": "Martijn van Groningen",
+        "percentage": 3.39
+      },
+      {
+        "file_count": 698,
+        "name": "David Turner",
+        "percentage": 3.3
+      },
+      {
+        "file_count": 586,
+        "name": "Colin Goodheart-Smithe",
+        "percentage": 2.77
+      },
+      {
+        "file_count": 549,
+        "name": "Armin Braun",
+        "percentage": 2.59
+      },
+      {
+        "file_count": 539,
+        "name": "Dimitris Athanasiou",
+        "percentage": 2.55
+      },
+      {
+        "file_count": 486,
+        "name": "Luca Cavanna",
+        "percentage": 2.3
+      },
+      {
+        "file_count": 481,
+        "name": "Igor Motov",
+        "percentage": 2.27
+      },
+      {
+        "file_count": 472,
+        "name": "uboness",
+        "percentage": 2.23
+      },
+      {
+        "file_count": 465,
+        "name": "Tim Vernum",
+        "percentage": 2.2
+      },
+      {
+        "file_count": 402,
+        "name": "David Kyle",
+        "percentage": 1.9
+      },
+      {
+        "file_count": 395,
+        "name": "Adrien Grand",
+        "percentage": 1.87
+      },
+      {
+        "file_count": 388,
+        "name": "Jack Conradson",
+        "percentage": 1.83
+      },
+      {
+        "file_count": 362,
+        "name": "Jason Tedor",
+        "percentage": 1.71
+      },
+      {
+        "file_count": 357,
+        "name": "Yang Wang",
+        "percentage": 1.69
+      },
+      {
+        "file_count": 344,
+        "name": "David Roberts",
+        "percentage": 1.63
+      },
+      {
+        "file_count": 335,
+        "name": "Nhat Nguyen",
+        "percentage": 1.58
+      },
+      {
+        "file_count": 333,
+        "name": "Lee Hinman",
+        "percentage": 1.57
+      },
+      {
+        "file_count": 328,
+        "name": "Tanguy Leroux",
+        "percentage": 1.55
+      },
+      {
+        "file_count": 317,
+        "name": "Ignacio Vera",
+        "percentage": 1.5
+      }
+    ],
+    "tf": 26
+  },
+  "ember.js.txt": {
+    "coverage": 47.47,
+    "developers": [
+      {
+        "file_count": 372,
+        "name": "Robert Jackson",
+        "percentage": 31.31
+      },
+      {
+        "file_count": 213,
+        "name": "Peter Wagenet",
+        "percentage": 17.93
+      },
+      {
+        "file_count": 120,
+        "name": "Chris Garrett",
+        "percentage": 10.1
+      },
+      {
+        "file_count": 112,
+        "name": "Chris Krycho",
+        "percentage": 9.43
+      },
+      {
+        "file_count": 103,
+        "name": "Tobias Bieniek",
+        "percentage": 8.67
+      },
+      {
+        "file_count": 73,
+        "name": "Chad Hietala",
+        "percentage": 6.14
+      },
+      {
+        "file_count": 71,
+        "name": "Jean du Plessis",
+        "percentage": 5.98
+      },
+      {
+        "file_count": 61,
+        "name": "Godfrey Chan",
+        "percentage": 5.13
+      }
+    ],
+    "tf": 8
+  },
+  "express.txt": {
+    "coverage": 18.81,
+    "developers": [
+      {
+        "file_count": 68,
+        "name": "TJ Holowaychuk",
+        "percentage": 67.33
+      },
+      {
+        "file_count": 52,
+        "name": "Douglas Christopher Wilson",
+        "percentage": 51.49
+      }
+    ],
+    "tf": 2
+  },
+  "factory_girl.txt": {
+    "coverage": 30.82,
+    "developers": [
+      {
+        "file_count": 106,
+        "name": "Joshua Clayton",
+        "percentage": 72.6
+      },
+      {
+        "file_count": 40,
+        "name": "Joe Ferris",
+        "percentage": 27.4
+      }
+    ],
+    "tf": 2
+  },
+  "flask.txt": {
+    "coverage": 35.14,
+    "developers": [
+      {
+        "file_count": 56,
+        "name": "David Lord",
+        "percentage": 75.68
+      },
+      {
+        "file_count": 37,
+        "name": "Armin Ronacher",
+        "percentage": 50.0
+      }
+    ],
+    "tf": 2
+  },
+  "fnordmetric.txt": {
+    "coverage": 0.0,
+    "developers": [
+      {
+        "file_count": 376,
+        "name": "Paul Asmuth",
+        "percentage": 100.0
+      }
+    ],
+    "tf": 1
+  },
+  "fog.txt": {
+    "coverage": 45.31,
+    "developers": [
+      {
+        "file_count": 235,
+        "name": "Paul Thornthwaite",
+        "percentage": 23.98
+      },
+      {
+        "file_count": 201,
+        "name": "Nick Osborn",
+        "percentage": 20.51
+      },
+      {
+        "file_count": 132,
+        "name": "geemus",
+        "percentage": 13.47
+      },
+      {
+        "file_count": 81,
+        "name": "Rodrigo Estebanez",
+        "percentage": 8.27
+      },
+      {
+        "file_count": 70,
+        "name": "Kaloyan Kanev",
+        "percentage": 7.14
+      },
+      {
+        "file_count": 64,
+        "name": "Decklin Foster",
+        "percentage": 6.53
+      },
+      {
+        "file_count": 52,
+        "name": "Lincoln Stoll",
+        "percentage": 5.31
+      }
+    ],
+    "tf": 7
+  },
+  "formtastic.txt": {
+    "coverage": 40.88,
+    "developers": [
+      {
+        "file_count": 118,
+        "name": "Justin French",
+        "percentage": 74.21
+      }
+    ],
+    "tf": 1
+  },
+  "geocoder.txt": {
+    "coverage": 48.76,
+    "developers": [
+      {
+        "file_count": 129,
+        "name": "Alex Reisner",
+        "percentage": 53.31
+      }
+    ],
+    "tf": 1
+  },
+  "git.txt": {
+    "coverage": 49.68,
+    "developers": [
+      {
+        "file_count": 408,
+        "name": "Junio C Hamano",
+        "percentage": 17.44
+      },
+      {
+        "file_count": 369,
+        "name": "Jeff King",
+        "percentage": 15.78
+      },
+      {
+        "file_count": 168,
+        "name": "\u00c6var Arnfjor\u00f0 Bjarmason",
+        "percentage": 7.18
+      },
+      {
+        "file_count": 144,
+        "name": "Johannes Schindelin",
+        "percentage": 6.16
+      },
+      {
+        "file_count": 140,
+        "name": "Elijah Newren",
+        "percentage": 5.99
+      },
+      {
+        "file_count": 111,
+        "name": "Nguyen Thai Ngoc Duy",
+        "percentage": 4.75
+      },
+      {
+        "file_count": 106,
+        "name": "Patrick Steinhardt",
+        "percentage": 4.53
+      },
+      {
+        "file_count": 86,
+        "name": "Jeff Hostetler",
+        "percentage": 3.68
+      },
+      {
+        "file_count": 72,
+        "name": "Rene Scharfe",
+        "percentage": 3.08
+      },
+      {
+        "file_count": 65,
+        "name": "Linus Torvalds",
+        "percentage": 2.78
+      },
+      {
+        "file_count": 57,
+        "name": "Eric Wong",
+        "percentage": 2.44
+      },
+      {
+        "file_count": 53,
+        "name": "Derrick Stolee",
+        "percentage": 2.27
+      },
+      {
+        "file_count": 53,
+        "name": "Taylor Blau",
+        "percentage": 2.27
+      },
+      {
+        "file_count": 41,
+        "name": "Michael Haggerty",
+        "percentage": 1.75
+      }
+    ],
+    "tf": 14
+  },
+  "glide.txt": {
+    "coverage": 7.79,
+    "developers": [
+      {
+        "file_count": 686,
+        "name": "judds",
+        "percentage": 98.99
+      }
+    ],
+    "tf": 1
+  },
+  "gradle.txt": {
+    "coverage": 46.9,
+    "developers": [
+      {
+        "file_count": 4808,
+        "name": "Adam Murdoch",
+        "percentage": 28.72
+      },
+      {
+        "file_count": 1455,
+        "name": "Lorant Pinter",
+        "percentage": 8.69
+      },
+      {
+        "file_count": 1268,
+        "name": "Daz DeBoer",
+        "percentage": 7.57
+      },
+      {
+        "file_count": 1068,
+        "name": "Cedric Champeau",
+        "percentage": 6.38
+      },
+      {
+        "file_count": 971,
+        "name": "Luke Daley",
+        "percentage": 5.8
+      },
+      {
+        "file_count": 951,
+        "name": "Gary Hale",
+        "percentage": 5.68
+      },
+      {
+        "file_count": 826,
+        "name": "Stefan Wolf",
+        "percentage": 4.93
+      },
+      {
+        "file_count": 812,
+        "name": "Thomas Tresansky",
+        "percentage": 4.85
+      },
+      {
+        "file_count": 798,
+        "name": "Paul Merlin",
+        "percentage": 4.77
+      },
+      {
+        "file_count": 680,
+        "name": "Rodrigo B. de Oliveira",
+        "percentage": 4.06
+      }
+    ],
+    "tf": 10
+  },
+  "grunt.txt": {
+    "coverage": 20.83,
+    "developers": [
+      {
+        "file_count": 22,
+        "name": "Ben Alman",
+        "percentage": 91.67
+      }
+    ],
+    "tf": 1
+  },
+  "haml.txt": {
+    "coverage": 40.53,
+    "developers": [
+      {
+        "file_count": 173,
+        "name": "Takashi Kokubun",
+        "percentage": 91.05
+      }
+    ],
+    "tf": 1
+  },
+  "homebrew-cask.txt": {
+    "coverage": 49.94,
+    "developers": [
+      {
+        "file_count": 1938,
+        "name": "Patrick Linnane",
+        "percentage": 26.94
+      },
+      {
+        "file_count": 651,
+        "name": "Bevan Kay",
+        "percentage": 9.05
+      },
+      {
+        "file_count": 573,
+        "name": "Miccal Matthews",
+        "percentage": 7.96
+      },
+      {
+        "file_count": 527,
+        "name": "BrewTestBot",
+        "percentage": 7.32
+      },
+      {
+        "file_count": 509,
+        "name": "Randall",
+        "percentage": 7.07
+      },
+      {
+        "file_count": 332,
+        "name": "Vitor Galvao",
+        "percentage": 4.61
+      },
+      {
+        "file_count": 306,
+        "name": "Roland Walker",
+        "percentage": 4.25
+      },
+      {
+        "file_count": 293,
+        "name": "Justin Krehel",
+        "percentage": 4.07
+      }
+    ],
+    "tf": 8
+  },
+  "homebrew.txt": {
+    "developers": []
+  },
+  "intellij-community.txt": {
+    "developers": []
+  },
+  "io.js.txt": {
+    "coverage": 49.81,
+    "developers": [
+      {
+        "file_count": 553,
+        "name": "James M Snell",
+        "percentage": 8.93
+      },
+      {
+        "file_count": 498,
+        "name": "Anna Henningsen",
+        "percentage": 8.04
+      },
+      {
+        "file_count": 472,
+        "name": "Joyee Cheung",
+        "percentage": 7.62
+      },
+      {
+        "file_count": 312,
+        "name": "Rich Trott",
+        "percentage": 5.04
+      },
+      {
+        "file_count": 258,
+        "name": "Ben Noordhuis",
+        "percentage": 4.16
+      },
+      {
+        "file_count": 240,
+        "name": "Ruben Bridgewater",
+        "percentage": 3.87
+      },
+      {
+        "file_count": 234,
+        "name": "Antoine du Hamel",
+        "percentage": 3.78
+      },
+      {
+        "file_count": 232,
+        "name": "Colin Ihrig",
+        "percentage": 3.74
+      },
+      {
+        "file_count": 205,
+        "name": "Ryan Dahl",
+        "percentage": 3.31
+      },
+      {
+        "file_count": 168,
+        "name": "Gabriel Schulhof",
+        "percentage": 2.71
+      },
+      {
+        "file_count": 167,
+        "name": "Isaac Z. Schlueter",
+        "percentage": 2.7
+      },
+      {
+        "file_count": 151,
+        "name": "Chengzhong Wu",
+        "percentage": 2.44
+      },
+      {
+        "file_count": 129,
+        "name": "Robert Nagy",
+        "percentage": 2.08
+      },
+      {
+        "file_count": 126,
+        "name": "Fedor Indutny",
+        "percentage": 2.03
+      },
+      {
+        "file_count": 116,
+        "name": "Michael Zasso",
+        "percentage": 1.87
+      },
+      {
+        "file_count": 97,
+        "name": "Matteo Collina",
+        "percentage": 1.57
+      },
+      {
+        "file_count": 97,
+        "name": "Rafael Gonzaga",
+        "percentage": 1.57
+      },
+      {
+        "file_count": 88,
+        "name": "Anatoli Papirovski",
+        "percentage": 1.42
+      },
+      {
+        "file_count": 80,
+        "name": "Brian White",
+        "percentage": 1.29
+      },
+      {
+        "file_count": 77,
+        "name": "Yagiz Nizipli",
+        "percentage": 1.24
+      },
+      {
+        "file_count": 74,
+        "name": "Tobias Nie\u00dfen",
+        "percentage": 1.19
+      }
+    ],
+    "tf": 21
+  },
+  "ion.txt": {
+    "coverage": 0.75,
+    "developers": [
+      {
+        "file_count": 132,
+        "name": "Koushik Dutta",
+        "percentage": 99.25
+      }
+    ],
+    "tf": 1
+  },
+  "ionic.txt": {
+    "coverage": 40.31,
+    "developers": [
+      {
+        "file_count": 1227,
+        "name": "Liam DeBeasi",
+        "percentage": 55.95
+      },
+      {
+        "file_count": 567,
+        "name": "Brandy Carney",
+        "percentage": 25.85
+      },
+      {
+        "file_count": 366,
+        "name": "Manu MA",
+        "percentage": 16.69
+      }
+    ],
+    "tf": 3
+  },
+  "ipython.txt": {
+    "coverage": 44.3,
+    "developers": [
+      {
+        "file_count": 107,
+        "name": "Thomas Kluyver",
+        "percentage": 35.91
+      },
+      {
+        "file_count": 79,
+        "name": "Fernando Perez",
+        "percentage": 26.51
+      },
+      {
+        "file_count": 77,
+        "name": "Matthias Bussonnier",
+        "percentage": 25.84
+      },
+      {
+        "file_count": 59,
+        "name": "Benjamin Ragan-Kelley",
+        "percentage": 19.8
+      }
+    ],
+    "tf": 4
+  },
+  "jade.txt": {
+    "coverage": 46.47,
+    "developers": [
+      {
+        "file_count": 514,
+        "name": "Forbes Lindesay",
+        "percentage": 84.4
+      }
+    ],
+    "tf": 1
+  },
+  "jedis.txt": {
+    "coverage": 39.79,
+    "developers": [
+      {
+        "file_count": 541,
+        "name": "M Sazzadul Hoque",
+        "percentage": 69.45
+      },
+      {
+        "file_count": 99,
+        "name": "Gabriel Erzse",
+        "percentage": 12.71
+      }
+    ],
+    "tf": 2
+  },
+  "jekyll.txt": {
+    "coverage": 48.4,
+    "developers": [
+      {
+        "file_count": 146,
+        "name": "Parker Moore",
+        "percentage": 51.96
+      },
+      {
+        "file_count": 63,
+        "name": "Ashwin Maroli",
+        "percentage": 22.42
+      }
+    ],
+    "tf": 2
+  },
+  "joomla-cms.txt": {
+    "coverage": 47.76,
+    "developers": [
+      {
+        "file_count": 695,
+        "name": "Allon Moritz",
+        "percentage": 18.62
+      },
+      {
+        "file_count": 355,
+        "name": "Andrew Eddie",
+        "percentage": 9.51
+      },
+      {
+        "file_count": 340,
+        "name": "infograf768",
+        "percentage": 9.11
+      },
+      {
+        "file_count": 306,
+        "name": "wilsonge",
+        "percentage": 8.2
+      },
+      {
+        "file_count": 304,
+        "name": "Michael Babker",
+        "percentage": 8.14
+      },
+      {
+        "file_count": 256,
+        "name": "Fedir Zinchuk",
+        "percentage": 6.86
+      },
+      {
+        "file_count": 251,
+        "name": "dGrammatiko",
+        "percentage": 6.72
+      },
+      {
+        "file_count": 238,
+        "name": "Rob Schley",
+        "percentage": 6.38
+      },
+      {
+        "file_count": 213,
+        "name": "Brian Teeman",
+        "percentage": 5.71
+      },
+      {
+        "file_count": 189,
+        "name": "Hannes Papenberg",
+        "percentage": 5.06
+      },
+      {
+        "file_count": 184,
+        "name": "Johan Janssens",
+        "percentage": 4.93
+      },
+      {
+        "file_count": 177,
+        "name": "Harald Leithner",
+        "percentage": 4.74
+      },
+      {
+        "file_count": 143,
+        "name": "Lodder",
+        "percentage": 3.83
+      }
+    ],
+    "tf": 13
+  },
+  "jquery-ui.txt": {
+    "coverage": 45.69,
+    "developers": [
+      {
+        "file_count": 203,
+        "name": "Scott Gonzalez",
+        "percentage": 51.52
+      },
+      {
+        "file_count": 87,
+        "name": "Richard Worth",
+        "percentage": 22.08
+      },
+      {
+        "file_count": 48,
+        "name": "Jorn Zaefferer",
+        "percentage": 12.18
+      },
+      {
+        "file_count": 44,
+        "name": "Alexander Schmitz",
+        "percentage": 11.17
+      }
+    ],
+    "tf": 4
+  },
+  "jquery.txt": {
+    "coverage": 34.91,
+    "developers": [
+      {
+        "file_count": 189,
+        "name": "Micha\u0142 Go\u0142ebiowski-Owczarek",
+        "percentage": 59.43
+      },
+      {
+        "file_count": 108,
+        "name": "Timmy Willison",
+        "percentage": 33.96
+      }
+    ],
+    "tf": 2
+  },
+  "kivy.txt": {
+    "coverage": 43.82,
+    "developers": [
+      {
+        "file_count": 264,
+        "name": "Mathieu Virbel",
+        "percentage": 59.33
+      },
+      {
+        "file_count": 84,
+        "name": "matham",
+        "percentage": 18.88
+      }
+    ],
+    "tf": 2
+  },
+  "less.js.txt": {
+    "coverage": 40.49,
+    "developers": [
+      {
+        "file_count": 438,
+        "name": "Matthew Dean",
+        "percentage": 76.44
+      },
+      {
+        "file_count": 231,
+        "name": "Luke Page",
+        "percentage": 40.31
+      }
+    ],
+    "tf": 2
+  },
+  "libgdx.txt": {
+    "coverage": 44.98,
+    "developers": [
+      {
+        "file_count": 1118,
+        "name": "Xoppa",
+        "percentage": 35.31
+      },
+      {
+        "file_count": 1080,
+        "name": "badlogicgames",
+        "percentage": 34.11
+      },
+      {
+        "file_count": 293,
+        "name": "Tomski",
+        "percentage": 9.25
+      },
+      {
+        "file_count": 277,
+        "name": "sterwill@tinfig.com",
+        "percentage": 8.75
+      }
+    ],
+    "tf": 4
+  },
+  "linguist.txt": {
+    "coverage": 43.42,
+    "developers": [
+      {
+        "file_count": 21,
+        "name": "Joshua Peek",
+        "percentage": 27.63
+      },
+      {
+        "file_count": 18,
+        "name": "Vicent Marti",
+        "percentage": 23.68
+      },
+      {
+        "file_count": 11,
+        "name": "Arfon Smith",
+        "percentage": 14.47
+      },
+      {
+        "file_count": 8,
+        "name": "Colin Seymour",
+        "percentage": 10.53
+      },
+      {
+        "file_count": 8,
+        "name": "John Gardner",
+        "percentage": 10.53
+      }
+    ],
+    "tf": 5
+  },
+  "linux.txt": {
+    "coverage": 49.97,
+    "developers": [
+      {
+        "file_count": 5175,
+        "name": "Linus Torvalds",
+        "percentage": 7.84
+      },
+      {
+        "file_count": 1252,
+        "name": "Mauro Carvalho Chehab",
+        "percentage": 1.9
+      },
+      {
+        "file_count": 1177,
+        "name": "Ben Skeggs",
+        "percentage": 1.78
+      },
+      {
+        "file_count": 1143,
+        "name": "Thomas Gleixner",
+        "percentage": 1.73
+      },
+      {
+        "file_count": 793,
+        "name": "Greg Kroah-Hartman",
+        "percentage": 1.2
+      },
+      {
+        "file_count": 776,
+        "name": "Arnaldo Carvalho de Melo",
+        "percentage": 1.18
+      },
+      {
+        "file_count": 684,
+        "name": "David Howells",
+        "percentage": 1.04
+      },
+      {
+        "file_count": 543,
+        "name": "Takashi Iwai",
+        "percentage": 0.82
+      }
+    ],
+    "tf": 8
+  },
+  "logstash.txt": {
+    "coverage": 49.47,
+    "developers": [
+      {
+        "file_count": 211,
+        "name": "Pier-Hugues Pellerin",
+        "percentage": 15.96
+      },
+      {
+        "file_count": 162,
+        "name": "Armin",
+        "percentage": 12.25
+      },
+      {
+        "file_count": 153,
+        "name": "Joao Duarte",
+        "percentage": 11.57
+      },
+      {
+        "file_count": 118,
+        "name": "Andrew Cholakian",
+        "percentage": 8.93
+      },
+      {
+        "file_count": 102,
+        "name": "Andrea Selva",
+        "percentage": 7.72
+      },
+      {
+        "file_count": 84,
+        "name": "Colin Surprenant",
+        "percentage": 6.35
+      },
+      {
+        "file_count": 83,
+        "name": "Dan Hermann",
+        "percentage": 6.28
+      }
+    ],
+    "tf": 7
+  },
+  "luigi.txt": {
+    "coverage": 48.09,
+    "developers": [
+      {
+        "file_count": 51,
+        "name": "Erik Bernhardsson",
+        "percentage": 19.47
+      },
+      {
+        "file_count": 45,
+        "name": "Arash Rouhani",
+        "percentage": 17.18
+      },
+      {
+        "file_count": 17,
+        "name": "Dave Buchfuhrer",
+        "percentage": 6.49
+      },
+      {
+        "file_count": 13,
+        "name": "Elias Freider",
+        "percentage": 4.96
+      },
+      {
+        "file_count": 10,
+        "name": "Guillaume Poulin",
+        "percentage": 3.82
+      },
+      {
+        "file_count": 8,
+        "name": "Gram",
+        "percentage": 3.05
+      },
+      {
+        "file_count": 7,
+        "name": "Uldis Barbans",
+        "percentage": 2.67
+      },
+      {
+        "file_count": 7,
+        "name": "Jon Aslund",
+        "percentage": 2.67
+      },
+      {
+        "file_count": 7,
+        "name": "Jake Feala",
+        "percentage": 2.67
+      },
+      {
+        "file_count": 6,
+        "name": "Stephen Pascoe",
+        "percentage": 2.29
+      },
+      {
+        "file_count": 6,
+        "name": "Marcel R",
+        "percentage": 2.29
+      },
+      {
+        "file_count": 6,
+        "name": "Joe Ennever",
+        "percentage": 2.29
+      },
+      {
+        "file_count": 6,
+        "name": "Ran Tavory",
+        "percentage": 2.29
+      }
+    ],
+    "tf": 13
+  },
+  "meteor.txt": {
+    "coverage": 48.14,
+    "developers": [
+      {
+        "file_count": 536,
+        "name": "Ben Newman",
+        "percentage": 33.29
+      },
+      {
+        "file_count": 214,
+        "name": "David Glasser",
+        "percentage": 13.29
+      },
+      {
+        "file_count": 122,
+        "name": "Gabriel Grubba",
+        "percentage": 7.58
+      },
+      {
+        "file_count": 98,
+        "name": "Jan Dvorak",
+        "percentage": 6.09
+      },
+      {
+        "file_count": 88,
+        "name": "Slava Kim",
+        "percentage": 5.47
+      },
+      {
+        "file_count": 72,
+        "name": "denihs",
+        "percentage": 4.47
+      },
+      {
+        "file_count": 56,
+        "name": "Geoff Schmidt",
+        "percentage": 3.48
+      }
+    ],
+    "tf": 7
+  },
+  "metrics.txt": {
+    "coverage": 35.93,
+    "developers": [
+      {
+        "file_count": 129,
+        "name": "Coda Hale",
+        "percentage": 32.41
+      },
+      {
+        "file_count": 122,
+        "name": "Jochen Schalanda",
+        "percentage": 30.65
+      },
+      {
+        "file_count": 101,
+        "name": "Artem Prigoda",
+        "percentage": 25.38
+      }
+    ],
+    "tf": 3
+  },
+  "moment.txt": {
+    "coverage": 34.89,
+    "developers": [
+      {
+        "file_count": 510,
+        "name": "Iskren Chernev",
+        "percentage": 82.39
+      },
+      {
+        "file_count": 108,
+        "name": "Tim Wood",
+        "percentage": 17.45
+      }
+    ],
+    "tf": 2
+  },
+  "mongoid.txt": {
+    "coverage": 17.86,
+    "developers": [
+      {
+        "file_count": 632,
+        "name": "Durran Jordan",
+        "percentage": 92.53
+      }
+    ],
+    "tf": 1
+  },
+  "monolog.txt": {
+    "coverage": 43.26,
+    "developers": [
+      {
+        "file_count": 204,
+        "name": "Jordi Boggiano",
+        "percentage": 94.88
+      }
+    ],
+    "tf": 1
+  },
+  "mustache.js.txt": {
+    "coverage": 46.0,
+    "developers": [
+      {
+        "file_count": 105,
+        "name": "Michael Jackson",
+        "percentage": 70.0
+      },
+      {
+        "file_count": 52,
+        "name": "Phillip Johnsen",
+        "percentage": 34.67
+      }
+    ],
+    "tf": 2
+  },
+  "netty.txt": {
+    "coverage": 46.72,
+    "developers": [
+      {
+        "file_count": 1011,
+        "name": "Trustin Lee",
+        "percentage": 34.2
+      },
+      {
+        "file_count": 953,
+        "name": "Norman Maurer",
+        "percentage": 32.24
+      },
+      {
+        "file_count": 330,
+        "name": "Scott Mitchell",
+        "percentage": 11.16
+      }
+    ],
+    "tf": 3
+  },
+  "node-browserify.txt": {
+    "coverage": 31.33,
+    "developers": [
+      {
+        "file_count": 292,
+        "name": "James Halliday",
+        "percentage": 76.24
+      }
+    ],
+    "tf": 1
+  },
+  "nokogiri.txt": {
+    "coverage": 43.17,
+    "developers": [
+      {
+        "file_count": 273,
+        "name": "Mike Dalessio",
+        "percentage": 65.47
+      },
+      {
+        "file_count": 124,
+        "name": "Aaron Patterson",
+        "percentage": 29.74
+      }
+    ],
+    "tf": 2
+  },
+  "odoo.txt": {
+    "coverage": 49.55,
+    "developers": [
+      {
+        "file_count": 735,
+        "name": "Thibault Delavallee",
+        "percentage": 6.07
+      },
+      {
+        "file_count": 483,
+        "name": "Sebastien Theys",
+        "percentage": 3.99
+      },
+      {
+        "file_count": 340,
+        "name": "Aaron Bohy",
+        "percentage": 2.81
+      },
+      {
+        "file_count": 336,
+        "name": "william-andre",
+        "percentage": 2.77
+      },
+      {
+        "file_count": 335,
+        "name": "Julien Mougenot",
+        "percentage": 2.77
+      },
+      {
+        "file_count": 287,
+        "name": "tsm-odoo",
+        "percentage": 2.37
+      },
+      {
+        "file_count": 268,
+        "name": "david",
+        "percentage": 2.21
+      },
+      {
+        "file_count": 259,
+        "name": "Gery Debongnie",
+        "percentage": 2.14
+      },
+      {
+        "file_count": 257,
+        "name": "Pierre Pulinckx (pipu)",
+        "percentage": 2.12
+      },
+      {
+        "file_count": 226,
+        "name": "qsm-odoo",
+        "percentage": 1.87
+      },
+      {
+        "file_count": 219,
+        "name": "Yannick Tivisse",
+        "percentage": 1.81
+      },
+      {
+        "file_count": 216,
+        "name": "Lucas Lefevre",
+        "percentage": 1.78
+      },
+      {
+        "file_count": 200,
+        "name": "Alexandre Kuhn",
+        "percentage": 1.65
+      },
+      {
+        "file_count": 199,
+        "name": "xmo-odoo",
+        "percentage": 1.64
+      },
+      {
+        "file_count": 184,
+        "name": "William Braeckman",
+        "percentage": 1.52
+      },
+      {
+        "file_count": 183,
+        "name": "vlst-odoo",
+        "percentage": 1.51
+      },
+      {
+        "file_count": 173,
+        "name": "Gorash",
+        "percentage": 1.43
+      },
+      {
+        "file_count": 166,
+        "name": "Victor Feyens",
+        "percentage": 1.37
+      },
+      {
+        "file_count": 162,
+        "name": "std-odoo",
+        "percentage": 1.34
+      },
+      {
+        "file_count": 161,
+        "name": "Romain Estievenart",
+        "percentage": 1.33
+      },
+      {
+        "file_count": 155,
+        "name": "Xavier BOL (xbo)",
+        "percentage": 1.28
+      },
+      {
+        "file_count": 153,
+        "name": "mcm-odoo",
+        "percentage": 1.26
+      },
+      {
+        "file_count": 152,
+        "name": "Aurelien Warnon",
+        "percentage": 1.25
+      },
+      {
+        "file_count": 134,
+        "name": "Jeremy Kersten",
+        "percentage": 1.11
+      },
+      {
+        "file_count": 133,
+        "name": "gawa-odoo",
+        "percentage": 1.1
+      },
+      {
+        "file_count": 128,
+        "name": "Jerome Maes",
+        "percentage": 1.06
+      },
+      {
+        "file_count": 118,
+        "name": "Joseph Caburnay",
+        "percentage": 0.97
+      },
+      {
+        "file_count": 116,
+        "name": "Raphael Collet",
+        "percentage": 0.96
+      },
+      {
+        "file_count": 109,
+        "name": "Fabien Pinckaers",
+        "percentage": 0.9
+      },
+      {
+        "file_count": 107,
+        "name": "Maryam Kia",
+        "percentage": 0.88
+      },
+      {
+        "file_count": 104,
+        "name": "Arnold Moyaux",
+        "percentage": 0.86
+      },
+      {
+        "file_count": 103,
+        "name": "Romeo Fragomeli",
+        "percentage": 0.85
+      },
+      {
+        "file_count": 102,
+        "name": "Kevin Baptiste",
+        "percentage": 0.84
+      },
+      {
+        "file_count": 100,
+        "name": "Patrick Hoste",
+        "percentage": 0.83
+      },
+      {
+        "file_count": 96,
+        "name": "rde",
+        "percentage": 0.79
+      },
+      {
+        "file_count": 94,
+        "name": "FrancoisGe",
+        "percentage": 0.78
+      },
+      {
+        "file_count": 92,
+        "name": "David Beguin",
+        "percentage": 0.76
+      },
+      {
+        "file_count": 91,
+        "name": "Mathieu Duckerts-Antoine",
+        "percentage": 0.75
+      },
+      {
+        "file_count": 89,
+        "name": "Laurent Smet",
+        "percentage": 0.73
+      },
+      {
+        "file_count": 86,
+        "name": "Samuel Degueldre",
+        "percentage": 0.71
+      },
+      {
+        "file_count": 85,
+        "name": "Pierre Paridans",
+        "percentage": 0.7
+      },
+      {
+        "file_count": 84,
+        "name": "Martin Trigaux",
+        "percentage": 0.69
+      },
+      {
+        "file_count": 81,
+        "name": "Remy Voet (ryv)",
+        "percentage": 0.67
+      },
+      {
+        "file_count": 79,
+        "name": "Maxime de Neuville",
+        "percentage": 0.65
+      },
+      {
+        "file_count": 74,
+        "name": "Josse Colpaert",
+        "percentage": 0.61
+      },
+      {
+        "file_count": 74,
+        "name": "Katherine Zaoral",
+        "percentage": 0.61
+      }
+    ],
+    "tf": 46
+  },
+  "openFrameworks.txt": {
+    "coverage": 46.61,
+    "developers": [
+      {
+        "file_count": 459,
+        "name": "arturo",
+        "percentage": 53.62
+      },
+      {
+        "file_count": 73,
+        "name": "ofTheo",
+        "percentage": 8.53
+      },
+      {
+        "file_count": 59,
+        "name": "Dan Rosser",
+        "percentage": 6.89
+      },
+      {
+        "file_count": 56,
+        "name": "Nick Hardeman",
+        "percentage": 6.54
+      }
+    ],
+    "tf": 4
+  },
+  "openage.txt": {
+    "coverage": 48.98,
+    "developers": [
+      {
+        "file_count": 913,
+        "name": "heinezen",
+        "percentage": 66.26
+      }
+    ],
+    "tf": 1
+  },
+  "opencv.txt": {
+    "coverage": 48.1,
+    "developers": [
+      {
+        "file_count": 818,
+        "name": "Vadim Pisarevsky",
+        "percentage": 25.67
+      },
+      {
+        "file_count": 663,
+        "name": "Alexander Alekhin",
+        "percentage": 20.8
+      },
+      {
+        "file_count": 227,
+        "name": "Dmitry Matveev",
+        "percentage": 7.12
+      },
+      {
+        "file_count": 185,
+        "name": "Maksim Shabunin",
+        "percentage": 5.8
+      },
+      {
+        "file_count": 165,
+        "name": "Giles Payne",
+        "percentage": 5.18
+      },
+      {
+        "file_count": 120,
+        "name": "Yashas Samaga B L",
+        "percentage": 3.77
+      }
+    ],
+    "tf": 6
+  },
+  "osquery.txt": {
+    "coverage": 42.05,
+    "developers": [
+      {
+        "file_count": 527,
+        "name": "Alessandro Gario",
+        "percentage": 28.41
+      },
+      {
+        "file_count": 398,
+        "name": "Teddy Reed",
+        "percentage": 21.46
+      },
+      {
+        "file_count": 282,
+        "name": "Stefano Bonicatti",
+        "percentage": 15.2
+      },
+      {
+        "file_count": 234,
+        "name": "Max Kareta",
+        "percentage": 12.61
+      }
+    ],
+    "tf": 4
+  },
+  "pandas.txt": {
+    "coverage": 47.82,
+    "developers": [
+      {
+        "file_count": 802,
+        "name": "jbrockmendel",
+        "percentage": 48.61
+      },
+      {
+        "file_count": 218,
+        "name": "Matthew Roeschke",
+        "percentage": 13.21
+      },
+      {
+        "file_count": 120,
+        "name": "Simon Hawkins",
+        "percentage": 7.27
+      },
+      {
+        "file_count": 110,
+        "name": "Jeff Reback",
+        "percentage": 6.67
+      },
+      {
+        "file_count": 81,
+        "name": "gfyoung",
+        "percentage": 4.91
+      }
+    ],
+    "tf": 5
+  },
+  "paperclip.txt": {
+    "coverage": 44.0,
+    "developers": [
+      {
+        "file_count": 118,
+        "name": "Jon Yurek",
+        "percentage": 78.67
+      }
+    ],
+    "tf": 1
+  },
+  "pdf.js.txt": {
+    "coverage": 28.57,
+    "developers": [
+      {
+        "file_count": 258,
+        "name": "Jonas Jenwald",
+        "percentage": 54.2
+      },
+      {
+        "file_count": 239,
+        "name": "Calixte Denizet",
+        "percentage": 50.21
+      }
+    ],
+    "tf": 2
+  },
+  "phabricator.txt": {
+    "coverage": 28.85,
+    "developers": [
+      {
+        "file_count": 5617,
+        "name": "epriestley",
+        "percentage": 86.7
+      }
+    ],
+    "tf": 1
+  },
+  "php-src.txt": {
+    "coverage": 49.87,
+    "developers": [
+      {
+        "file_count": 3788,
+        "name": "Peter Kokot",
+        "percentage": 16.48
+      },
+      {
+        "file_count": 2951,
+        "name": "Nikita Popov",
+        "percentage": 12.84
+      },
+      {
+        "file_count": 2181,
+        "name": "Dmitry Stogov",
+        "percentage": 9.49
+      },
+      {
+        "file_count": 1432,
+        "name": "Niels Dossche",
+        "percentage": 6.23
+      },
+      {
+        "file_count": 915,
+        "name": "Xinchen Hui",
+        "percentage": 3.98
+      },
+      {
+        "file_count": 867,
+        "name": "Raghubansh Kumar",
+        "percentage": 3.77
+      },
+      {
+        "file_count": 859,
+        "name": "Ilija Tovilo",
+        "percentage": 3.74
+      },
+      {
+        "file_count": 811,
+        "name": "Felipe Pena",
+        "percentage": 3.53
+      },
+      {
+        "file_count": 807,
+        "name": "Anatol Belski",
+        "percentage": 3.51
+      },
+      {
+        "file_count": 732,
+        "name": "George Peter Banyard",
+        "percentage": 3.18
+      },
+      {
+        "file_count": 711,
+        "name": "Christoph M. Becker",
+        "percentage": 3.09
+      },
+      {
+        "file_count": 695,
+        "name": "Mate Kocsis",
+        "percentage": 3.02
+      },
+      {
+        "file_count": 689,
+        "name": "Antony Dovgal",
+        "percentage": 3.0
+      },
+      {
+        "file_count": 678,
+        "name": "Marcus Boerger",
+        "percentage": 2.95
+      },
+      {
+        "file_count": 570,
+        "name": "Ant Phillips",
+        "percentage": 2.48
+      },
+      {
+        "file_count": 525,
+        "name": "Stanislav Malyshev",
+        "percentage": 2.28
+      },
+      {
+        "file_count": 521,
+        "name": "Greg Beaver",
+        "percentage": 2.27
+      },
+      {
+        "file_count": 517,
+        "name": "SVN Migration",
+        "percentage": 2.25
+      }
+    ],
+    "tf": 18
+  },
+  "phpunit.txt": {
+    "coverage": 19.76,
+    "developers": [
+      {
+        "file_count": 2276,
+        "name": "Sebastian Bergmann",
+        "percentage": 94.68
+      }
+    ],
+    "tf": 1
+  },
+  "platform_frameworks_base.txt": {
+    "coverage": 49.97,
+    "developers": [
+      {
+        "file_count": 1420,
+        "name": "The Android Open Source Project",
+        "percentage": 5.19
+      },
+      {
+        "file_count": 526,
+        "name": "Winson",
+        "percentage": 1.92
+      },
+      {
+        "file_count": 501,
+        "name": "Fabian Kozynski",
+        "percentage": 1.83
+      },
+      {
+        "file_count": 472,
+        "name": "Jeff Sharkey",
+        "percentage": 1.73
+      },
+      {
+        "file_count": 471,
+        "name": "Adam Lesinski",
+        "percentage": 1.72
+      },
+      {
+        "file_count": 450,
+        "name": "John Reck",
+        "percentage": 1.65
+      },
+      {
+        "file_count": 438,
+        "name": "lpeter",
+        "percentage": 1.6
+      },
+      {
+        "file_count": 398,
+        "name": "Caitlin Cassidy",
+        "percentage": 1.46
+      },
+      {
+        "file_count": 392,
+        "name": "Dave Mankoff",
+        "percentage": 1.43
+      },
+      {
+        "file_count": 378,
+        "name": "Alejandro Nijamkin",
+        "percentage": 1.38
+      },
+      {
+        "file_count": 376,
+        "name": "Dianne Hackborn",
+        "percentage": 1.37
+      },
+      {
+        "file_count": 332,
+        "name": "Anton Potapov",
+        "percentage": 1.21
+      },
+      {
+        "file_count": 321,
+        "name": "Jason Monk",
+        "percentage": 1.17
+      },
+      {
+        "file_count": 318,
+        "name": "Makoto Onuki",
+        "percentage": 1.16
+      },
+      {
+        "file_count": 278,
+        "name": "Steve Elliott",
+        "percentage": 1.02
+      },
+      {
+        "file_count": 275,
+        "name": "Matt Pietal",
+        "percentage": 1.01
+      },
+      {
+        "file_count": 271,
+        "name": "Nataniel Borges",
+        "percentage": 0.99
+      },
+      {
+        "file_count": 260,
+        "name": "Jeff DeCew",
+        "percentage": 0.95
+      },
+      {
+        "file_count": 248,
+        "name": "Yohann Roussel",
+        "percentage": 0.91
+      },
+      {
+        "file_count": 241,
+        "name": "Mike Lockwood",
+        "percentage": 0.88
+      },
+      {
+        "file_count": 234,
+        "name": "Chaohui Wang",
+        "percentage": 0.86
+      },
+      {
+        "file_count": 232,
+        "name": "Felipe Leme",
+        "percentage": 0.85
+      },
+      {
+        "file_count": 231,
+        "name": "Svetoslav",
+        "percentage": 0.84
+      },
+      {
+        "file_count": 231,
+        "name": "Miguel Aranda",
+        "percentage": 0.84
+      },
+      {
+        "file_count": 229,
+        "name": "renn",
+        "percentage": 0.84
+      },
+      {
+        "file_count": 226,
+        "name": "Evan Laird",
+        "percentage": 0.83
+      },
+      {
+        "file_count": 225,
+        "name": "Dmitri Plotnikov",
+        "percentage": 0.82
+      },
+      {
+        "file_count": 210,
+        "name": "Neil Fuller",
+        "percentage": 0.77
+      },
+      {
+        "file_count": 209,
+        "name": "Jeff Brown",
+        "percentage": 0.76
+      },
+      {
+        "file_count": 203,
+        "name": "Behnam Heydarshahi",
+        "percentage": 0.74
+      },
+      {
+        "file_count": 202,
+        "name": "Mathew Inwood",
+        "percentage": 0.74
+      },
+      {
+        "file_count": 200,
+        "name": "Joe Onorato",
+        "percentage": 0.73
+      },
+      {
+        "file_count": 192,
+        "name": "Pablo Gamito",
+        "percentage": 0.7
+      },
+      {
+        "file_count": 186,
+        "name": "Jordan Demeulenaere",
+        "percentage": 0.68
+      },
+      {
+        "file_count": 185,
+        "name": "Jean-Baptiste Queru",
+        "percentage": 0.68
+      },
+      {
+        "file_count": 173,
+        "name": "Jorim Jaggi",
+        "percentage": 0.63
+      },
+      {
+        "file_count": 167,
+        "name": "John Wu",
+        "percentage": 0.61
+      },
+      {
+        "file_count": 165,
+        "name": "Julia Reynolds",
+        "percentage": 0.6
+      },
+      {
+        "file_count": 165,
+        "name": "Kevin Chyn",
+        "percentage": 0.6
+      },
+      {
+        "file_count": 163,
+        "name": "Adrian Roos",
+        "percentage": 0.6
+      },
+      {
+        "file_count": 157,
+        "name": "Yohei Yukawa",
+        "percentage": 0.57
+      },
+      {
+        "file_count": 150,
+        "name": "Romain Guy",
+        "percentage": 0.55
+      },
+      {
+        "file_count": 149,
+        "name": "Selim Cinek",
+        "percentage": 0.54
+      },
+      {
+        "file_count": 149,
+        "name": "Soonil Nagarkar",
+        "percentage": 0.54
+      },
+      {
+        "file_count": 148,
+        "name": "Joe Bolinger",
+        "percentage": 0.54
+      },
+      {
+        "file_count": 145,
+        "name": "Lucas Silva",
+        "percentage": 0.53
+      },
+      {
+        "file_count": 145,
+        "name": "Nick Chameyev",
+        "percentage": 0.53
+      },
+      {
+        "file_count": 143,
+        "name": "John Spurlock",
+        "percentage": 0.52
+      },
+      {
+        "file_count": 143,
+        "name": "Philip P. Moltmann",
+        "percentage": 0.52
+      },
+      {
+        "file_count": 143,
+        "name": "Ryan Mitchell",
+        "percentage": 0.52
+      }
+    ],
+    "tf": 50
+  },
+  "powerline.txt": {
+    "coverage": 18.4,
+    "developers": [
+      {
+        "file_count": 198,
+        "name": "ZyX",
+        "percentage": 93.4
+      }
+    ],
+    "tf": 1
+  },
+  "prawn.txt": {
+    "coverage": 38.61,
+    "developers": [
+      {
+        "file_count": 126,
+        "name": "Alexander Mankuta",
+        "percentage": 62.38
+      },
+      {
+        "file_count": 73,
+        "name": "Felipe Doria",
+        "percentage": 36.14
+      }
+    ],
+    "tf": 2
+  },
+  "presto.txt": {
+    "coverage": 49.98,
+    "developers": [
+      {
+        "file_count": 1243,
+        "name": "Dain Sundstrom",
+        "percentage": 13.88
+      },
+      {
+        "file_count": 791,
+        "name": "David Phillips",
+        "percentage": 8.83
+      },
+      {
+        "file_count": 403,
+        "name": "Rongrong Zhong",
+        "percentage": 4.5
+      },
+      {
+        "file_count": 375,
+        "name": "Christopher Berner",
+        "percentage": 4.19
+      },
+      {
+        "file_count": 332,
+        "name": "Andrii Rosa",
+        "percentage": 3.71
+      },
+      {
+        "file_count": 331,
+        "name": "Martin Traverso",
+        "percentage": 3.7
+      },
+      {
+        "file_count": 283,
+        "name": "Nikhil Collooru",
+        "percentage": 3.16
+      },
+      {
+        "file_count": 276,
+        "name": "Leiqing Cai",
+        "percentage": 3.08
+      },
+      {
+        "file_count": 266,
+        "name": "James Sun",
+        "percentage": 2.97
+      },
+      {
+        "file_count": 228,
+        "name": "Haozhun Jin",
+        "percentage": 2.55
+      },
+      {
+        "file_count": 216,
+        "name": "Zhenxiao Luo",
+        "percentage": 2.41
+      },
+      {
+        "file_count": 207,
+        "name": "Eric Hwang",
+        "percentage": 2.31
+      },
+      {
+        "file_count": 197,
+        "name": "Grzegorz Kokosinski",
+        "percentage": 2.2
+      },
+      {
+        "file_count": 187,
+        "name": "Lukasz Osipiuk",
+        "percentage": 2.09
+      },
+      {
+        "file_count": 175,
+        "name": "Wenlei Xie",
+        "percentage": 1.95
+      },
+      {
+        "file_count": 165,
+        "name": "Raghav Sethi",
+        "percentage": 1.84
+      },
+      {
+        "file_count": 164,
+        "name": "Rebecca Schlussel",
+        "percentage": 1.83
+      },
+      {
+        "file_count": 164,
+        "name": "Michael Shang",
+        "percentage": 1.83
+      },
+      {
+        "file_count": 136,
+        "name": "Masha Basmanova",
+        "percentage": 1.52
+      },
+      {
+        "file_count": 127,
+        "name": "Tim Meehan",
+        "percentage": 1.42
+      }
+    ],
+    "tf": 20
+  },
+  "puphpet.txt": {
+    "coverage": 3.23,
+    "developers": [
+      {
+        "file_count": 155,
+        "name": "Juan Treminio",
+        "percentage": 100.0
+      }
+    ],
+    "tf": 1
+  },
+  "puppet.txt": {
+    "coverage": 49.48,
+    "developers": [
+      {
+        "file_count": 425,
+        "name": "Luke Kanies",
+        "percentage": 19.19
+      },
+      {
+        "file_count": 389,
+        "name": "Henrik Lindberg",
+        "percentage": 17.56
+      },
+      {
+        "file_count": 365,
+        "name": "Josh Cooper",
+        "percentage": 16.48
+      },
+      {
+        "file_count": 225,
+        "name": "Thomas Hallgren",
+        "percentage": 10.16
+      },
+      {
+        "file_count": 170,
+        "name": "Michael Hashizume",
+        "percentage": 7.67
+      },
+      {
+        "file_count": 111,
+        "name": "Andrew Parker",
+        "percentage": 5.01
+      }
+    ],
+    "tf": 6
+  },
+  "rails.txt": {
+    "coverage": 49.85,
+    "developers": [
+      {
+        "file_count": 351,
+        "name": "David Heinemeier Hansson",
+        "percentage": 10.33
+      },
+      {
+        "file_count": 224,
+        "name": "Ryuta Kamizono",
+        "percentage": 6.59
+      },
+      {
+        "file_count": 189,
+        "name": "Jeremy Kemper",
+        "percentage": 5.56
+      },
+      {
+        "file_count": 181,
+        "name": "Jose Valim",
+        "percentage": 5.33
+      },
+      {
+        "file_count": 178,
+        "name": "Rafael Mendonca Franca",
+        "percentage": 5.24
+      },
+      {
+        "file_count": 174,
+        "name": "Aaron Patterson",
+        "percentage": 5.12
+      },
+      {
+        "file_count": 119,
+        "name": "Sean Griffin",
+        "percentage": 3.5
+      },
+      {
+        "file_count": 108,
+        "name": "George Claghorn",
+        "percentage": 3.18
+      },
+      {
+        "file_count": 101,
+        "name": "Jonathan Hefner",
+        "percentage": 2.97
+      },
+      {
+        "file_count": 86,
+        "name": "Jon Leighton",
+        "percentage": 2.53
+      },
+      {
+        "file_count": 86,
+        "name": "Jean Boussier",
+        "percentage": 2.53
+      },
+      {
+        "file_count": 80,
+        "name": "Matthew Draper",
+        "percentage": 2.35
+      },
+      {
+        "file_count": 79,
+        "name": "Joshua Peek",
+        "percentage": 2.32
+      },
+      {
+        "file_count": 78,
+        "name": "Xavier Noria",
+        "percentage": 2.3
+      },
+      {
+        "file_count": 76,
+        "name": "eileencodes",
+        "percentage": 2.24
+      }
+    ],
+    "tf": 15
+  },
+  "requirejs.txt": {
+    "coverage": 2.62,
+    "developers": [
+      {
+        "file_count": 571,
+        "name": "jrburke",
+        "percentage": 99.65
+      }
+    ],
+    "tf": 1
+  },
+  "resque.txt": {
+    "coverage": 45.95,
+    "developers": [
+      {
+        "file_count": 38,
+        "name": "Chris Wanstrath",
+        "percentage": 51.35
+      },
+      {
+        "file_count": 7,
+        "name": "Tony Arcieri",
+        "percentage": 9.46
+      }
+    ],
+    "tf": 2
+  },
+  "rubocop.txt": {
+    "coverage": 46.88,
+    "developers": [
+      {
+        "file_count": 735,
+        "name": "Koichi ITO",
+        "percentage": 46.82
+      },
+      {
+        "file_count": 188,
+        "name": "Jonas Arvidsson",
+        "percentage": 11.97
+      },
+      {
+        "file_count": 179,
+        "name": "Bozhidar Batsov",
+        "percentage": 11.4
+      },
+      {
+        "file_count": 120,
+        "name": "Lee Dohm",
+        "percentage": 7.64
+      },
+      {
+        "file_count": 105,
+        "name": "fatkodima",
+        "percentage": 6.69
+      },
+      {
+        "file_count": 84,
+        "name": "Daniel Vandersluis",
+        "percentage": 5.35
+      },
+      {
+        "file_count": 83,
+        "name": "Yuji Nakayama",
+        "percentage": 5.29
+      }
+    ],
+    "tf": 7
+  },
+  "ruby.txt": {
+    "coverage": 47.54,
+    "developers": [
+      {
+        "file_count": 4780,
+        "name": "Benoit Daloze",
+        "percentage": 53.97
+      }
+    ],
+    "tf": 1
+  },
+  "salt.txt": {
+    "coverage": 48.28,
+    "developers": [
+      {
+        "file_count": 1143,
+        "name": "Pedro Algarvio",
+        "percentage": 45.2
+      },
+      {
+        "file_count": 298,
+        "name": "Twangboy",
+        "percentage": 11.78
+      },
+      {
+        "file_count": 184,
+        "name": "Thomas S Hatch",
+        "percentage": 7.28
+      },
+      {
+        "file_count": 182,
+        "name": "Gareth J. Greenaway",
+        "percentage": 7.2
+      },
+      {
+        "file_count": 176,
+        "name": "Erik Johnson",
+        "percentage": 6.96
+      },
+      {
+        "file_count": 149,
+        "name": "Daniel A. Wozniak",
+        "percentage": 5.89
+      },
+      {
+        "file_count": 118,
+        "name": "Kirill Ponomarev",
+        "percentage": 4.67
+      },
+      {
+        "file_count": 115,
+        "name": "MKLeb",
+        "percentage": 4.55
+      }
+    ],
+    "tf": 8
+  },
+  "sass.txt": {
+    "coverage": 36.36,
+    "developers": [
+      {
+        "file_count": 8,
+        "name": "Natalie Weizenbaum",
+        "percentage": 72.73
+      },
+      {
+        "file_count": 5,
+        "name": "Awjin Ahn",
+        "percentage": 45.45
+      }
+    ],
+    "tf": 2
+  },
+  "scikit-learn.txt": {
+    "coverage": 49.52,
+    "developers": [
+      {
+        "file_count": 130,
+        "name": "Thomas J. Fan",
+        "percentage": 17.83
+      },
+      {
+        "file_count": 76,
+        "name": "Adrin Jalali",
+        "percentage": 10.43
+      },
+      {
+        "file_count": 67,
+        "name": "Andreas Mueller",
+        "percentage": 9.19
+      },
+      {
+        "file_count": 55,
+        "name": "Guillaume Lemaitre",
+        "percentage": 7.54
+      },
+      {
+        "file_count": 45,
+        "name": "jeremiedbb",
+        "percentage": 6.17
+      },
+      {
+        "file_count": 42,
+        "name": "Fabian Pedregosa",
+        "percentage": 5.76
+      },
+      {
+        "file_count": 40,
+        "name": "Nicolas Hug",
+        "percentage": 5.49
+      },
+      {
+        "file_count": 40,
+        "name": "Loic Esteve",
+        "percentage": 5.49
+      },
+      {
+        "file_count": 39,
+        "name": "Olivier Grisel",
+        "percentage": 5.35
+      },
+      {
+        "file_count": 34,
+        "name": "Gael Varoquaux",
+        "percentage": 4.66
+      },
+      {
+        "file_count": 28,
+        "name": "Lars Buitinck",
+        "percentage": 3.84
+      },
+      {
+        "file_count": 22,
+        "name": "Arnaud Joly",
+        "percentage": 3.02
+      },
+      {
+        "file_count": 20,
+        "name": "Joel Nothman",
+        "percentage": 2.74
+      }
+    ],
+    "tf": 13
+  },
+  "sentry.txt": {
+    "coverage": 49.44,
+    "developers": [
+      {
+        "file_count": 1215,
+        "name": "Evan Purkhiser",
+        "percentage": 10.41
+      },
+      {
+        "file_count": 970,
+        "name": "David Cramer",
+        "percentage": 8.31
+      },
+      {
+        "file_count": 736,
+        "name": "Billy Vong",
+        "percentage": 6.31
+      },
+      {
+        "file_count": 632,
+        "name": "Priscila Oliveira",
+        "percentage": 5.41
+      },
+      {
+        "file_count": 543,
+        "name": "Mark Story",
+        "percentage": 4.65
+      },
+      {
+        "file_count": 543,
+        "name": "anthony sottile",
+        "percentage": 4.65
+      },
+      {
+        "file_count": 502,
+        "name": "Ryan Albrecht",
+        "percentage": 4.3
+      },
+      {
+        "file_count": 475,
+        "name": "Dan Fuller",
+        "percentage": 4.07
+      },
+      {
+        "file_count": 388,
+        "name": "Stephen Cefali",
+        "percentage": 3.32
+      },
+      {
+        "file_count": 385,
+        "name": "Scott Cooper",
+        "percentage": 3.3
+      },
+      {
+        "file_count": 340,
+        "name": "josh",
+        "percentage": 2.91
+      },
+      {
+        "file_count": 335,
+        "name": "Jonas",
+        "percentage": 2.87
+      },
+      {
+        "file_count": 317,
+        "name": "Tony",
+        "percentage": 2.72
+      },
+      {
+        "file_count": 299,
+        "name": "Marcos Gaeta",
+        "percentage": 2.56
+      },
+      {
+        "file_count": 249,
+        "name": "George Gritsouk",
+        "percentage": 2.13
+      },
+      {
+        "file_count": 249,
+        "name": "Malachi Willey",
+        "percentage": 2.13
+      },
+      {
+        "file_count": 240,
+        "name": "Leander Rodrigues",
+        "percentage": 2.06
+      },
+      {
+        "file_count": 209,
+        "name": "ArthurKnaus",
+        "percentage": 1.79
+      },
+      {
+        "file_count": 193,
+        "name": "Michelle Zhang",
+        "percentage": 1.65
+      },
+      {
+        "file_count": 176,
+        "name": "edwardgou-sentry",
+        "percentage": 1.51
+      }
+    ],
+    "tf": 20
+  },
+  "spring-framework.txt": {
+    "coverage": 45.68,
+    "developers": [
+      {
+        "file_count": 2445,
+        "name": "Arjen Poutsma",
+        "percentage": 27.51
+      },
+      {
+        "file_count": 1859,
+        "name": "Juergen Hoeller",
+        "percentage": 20.92
+      },
+      {
+        "file_count": 1817,
+        "name": "rstoyanchev",
+        "percentage": 20.45
+      },
+      {
+        "file_count": 1661,
+        "name": "Sam Brannen",
+        "percentage": 18.69
+      }
+    ],
+    "tf": 4
+  },
+  "sprockets.txt": {
+    "developers": []
+  },
+  "thor.txt": {
+    "coverage": 34.18,
+    "developers": [
+      {
+        "file_count": 48,
+        "name": "Jose Valim",
+        "percentage": 60.76
+      },
+      {
+        "file_count": 21,
+        "name": "Erik Michaels-Ober",
+        "percentage": 26.58
+      }
+    ],
+    "tf": 2
+  },
+  "three.js.txt": {
+    "coverage": 48.36,
+    "developers": [
+      {
+        "file_count": 400,
+        "name": "Gregg Tavares",
+        "percentage": 25.79
+      },
+      {
+        "file_count": 331,
+        "name": "sunag",
+        "percentage": 21.34
+      },
+      {
+        "file_count": 293,
+        "name": "Mr.doob",
+        "percentage": 18.89
+      }
+    ],
+    "tf": 3
+  },
+  "thumbor.txt": {
+    "coverage": 41.0,
+    "developers": [
+      {
+        "file_count": 174,
+        "name": "Bernardo Heynemann",
+        "percentage": 72.8
+      },
+      {
+        "file_count": 38,
+        "name": "Cezar Sa Espinola",
+        "percentage": 15.9
+      }
+    ],
+    "tf": 2
+  },
+  "tiled.txt": {
+    "coverage": 32.74,
+    "developers": [
+      {
+        "file_count": 740,
+        "name": "Thorbj\u00f8rn Lindeijer",
+        "percentage": 88.41
+      }
+    ],
+    "tf": 1
+  },
+  "titan.txt": {
+    "coverage": 11.33,
+    "developers": [
+      {
+        "file_count": 752,
+        "name": "Dan LaRocque",
+        "percentage": 54.97
+      },
+      {
+        "file_count": 675,
+        "name": "Matthias Broecheler",
+        "percentage": 49.34
+      }
+    ],
+    "tf": 2
+  },
+  "twitter.txt": {
+    "coverage": 20.36,
+    "developers": [
+      {
+        "file_count": 161,
+        "name": "Erik Michaels-Ober",
+        "percentage": 96.41
+      }
+    ],
+    "tf": 1
+  },
+  "vagrant.txt": {
+    "coverage": 44.12,
+    "developers": [
+      {
+        "file_count": 656,
+        "name": "Mitchell Hashimoto",
+        "percentage": 29.78
+      },
+      {
+        "file_count": 419,
+        "name": "Chris Roberts",
+        "percentage": 19.02
+      },
+      {
+        "file_count": 399,
+        "name": "sophia",
+        "percentage": 18.11
+      },
+      {
+        "file_count": 379,
+        "name": "hashicorp-copywrite[bot]",
+        "percentage": 17.2
+      }
+    ],
+    "tf": 4
+  },
+  "vowpal_wabbit.txt": {
+    "coverage": 45.61,
+    "developers": [
+      {
+        "file_count": 595,
+        "name": "Jack Gerrits",
+        "percentage": 52.8
+      },
+      {
+        "file_count": 182,
+        "name": "Markus Cozowicz",
+        "percentage": 16.15
+      },
+      {
+        "file_count": 124,
+        "name": "John Langford",
+        "percentage": 11.0
+      }
+    ],
+    "tf": 3
+  },
+  "webscalesql-5.6.txt": {
+    "coverage": 49.07,
+    "developers": [
+      {
+        "file_count": 876,
+        "name": "Murthy Narkedimilli",
+        "percentage": 19.04
+      },
+      {
+        "file_count": 679,
+        "name": "magnus@neptunus.(none)",
+        "percentage": 14.76
+      },
+      {
+        "file_count": 624,
+        "name": "Bernhard Ocklin",
+        "percentage": 13.57
+      },
+      {
+        "file_count": 347,
+        "name": "bk@work.mysql.com",
+        "percentage": 7.54
+      },
+      {
+        "file_count": 310,
+        "name": "Kent Boortz",
+        "percentage": 6.74
+      },
+      {
+        "file_count": 269,
+        "name": "Jimmy Yang",
+        "percentage": 5.85
+      },
+      {
+        "file_count": 216,
+        "name": "Marc Alff",
+        "percentage": 4.7
+      },
+      {
+        "file_count": 193,
+        "name": "Jonas Oreland",
+        "percentage": 4.2
+      },
+      {
+        "file_count": 152,
+        "name": "Magnus Blaudd",
+        "percentage": 3.3
+      },
+      {
+        "file_count": 141,
+        "name": "Satya B",
+        "percentage": 3.07
+      },
+      {
+        "file_count": 125,
+        "name": "monty@donna.mysql.com",
+        "percentage": 2.72
+      },
+      {
+        "file_count": 121,
+        "name": "jonas@perch.ndb.mysql.com",
+        "percentage": 2.63
+      },
+      {
+        "file_count": 100,
+        "name": "Sergey Vojtovich",
+        "percentage": 2.17
+      }
+    ],
+    "tf": 13
+  },
+  "wp-cli.txt": {
+    "coverage": 32.67,
+    "developers": [
+      {
+        "file_count": 70,
+        "name": "Alain Schlesser",
+        "percentage": 46.67
+      },
+      {
+        "file_count": 62,
+        "name": "danielbachhuber",
+        "percentage": 41.33
+      },
+      {
+        "file_count": 48,
+        "name": "scribu",
+        "percentage": 32.0
+      }
+    ],
+    "tf": 3
+  },
+  "yii2.txt": {
+    "coverage": 46.6,
+    "developers": [
+      {
+        "file_count": 401,
+        "name": "\u2543\u5de1\u6d0b\u8266\u32a3",
+        "percentage": 37.83
+      },
+      {
+        "file_count": 314,
+        "name": "Qiang Xue",
+        "percentage": 29.62
+      },
+      {
+        "file_count": 179,
+        "name": "Carsten Brandt",
+        "percentage": 16.89
+      },
+      {
+        "file_count": 147,
+        "name": "Alexander Makarov",
+        "percentage": 13.87
+      },
+      {
+        "file_count": 79,
+        "name": "SilverFire - Dmitry Naumenko",
+        "percentage": 7.45
+      }
+    ],
+    "tf": 5
+  },
+  "youtube-dl.txt": {
+    "coverage": 42.92,
+    "developers": [
+      {
+        "file_count": 415,
+        "name": "Sergey M\u2024",
+        "percentage": 44.86
+      },
+      {
+        "file_count": 211,
+        "name": "Remita Amine",
+        "percentage": 22.81
+      },
+      {
+        "file_count": 183,
+        "name": "Philipp Hagemeister",
+        "percentage": 19.78
+      },
+      {
+        "file_count": 80,
+        "name": "Jaime Marquinez Ferrandiz",
+        "percentage": 8.65
+      }
+    ],
+    "tf": 4
+  }
+}

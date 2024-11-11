@@ -1,0 +1,16 @@
+TF = 13 (coverage = 49.49%)
+TF authors (Developer;Files;Percentage):
+Francois Zaninotto;73;12.41
+Andreas Moller;56;9.52
+John Was;35;5.95
+r3h6;30;5.10
+Owen Kieffer-Jones;18;3.06
+newman101;12;2.04
+Hugo Fonseca;11;1.87
+Tz-Huan Huang;10;1.70
+Yerlen Zhubangaliyev;10;1.70
+ppelgrims;9;1.53
+Bernhard Essl;9;1.53
+Roman 'pomaxa' Shvets;8;1.36
+andela-celisha-wigwe;8;1.36
+

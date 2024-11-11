@@ -1,0 +1,7 @@
+TF = 4 (coverage = 47.91%)
+TF authors (Developer;Files;Percentage):
+MarcoFalke;1242;52.34
+Wladimir J. van der Laan;391;16.48
+Pieter Wuille;218;9.19
+Jonas Schnelli;126;5.31
+

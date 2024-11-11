@@ -1,0 +1,8 @@
+TF = 5 (coverage = 46.60%)
+TF authors (Developer;Files;Percentage):
+╃巡洋艦㊣;401;37.83
+Qiang Xue;314;29.62
+Carsten Brandt;179;16.89
+Alexander Makarov;147;13.87
+SilverFire - Dmitry Naumenko;79;7.45
+

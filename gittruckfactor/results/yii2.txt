@@ -1,0 +1,9 @@
+TF = 6 (coverage = 48.30%)
+TF authors (Developer;Files;Percentage):
+cuileon;1092;45.75
+Qiang Xue;416;17.43
+Carsten Brandt;269;11.27
+Alexander Makarov;267;11.19
+Nobuo Kihara;157;6.58
+Bizley;133;5.57
+

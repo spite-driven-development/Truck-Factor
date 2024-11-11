@@ -1,0 +1,8 @@
+TF = 5 (coverage = 49.44%)
+TF authors (Developer;Files;Percentage):
+Odoo Translation Bot;12033;33.27
+Martin Trigaux;2420;6.69
+Launchpad Translations on behalf of openerp;1610;4.45
+Odoo Online;1405;3.89
+--global;1327;3.67
+

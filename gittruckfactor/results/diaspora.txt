@@ -1,0 +1,9 @@
+TF = 6 (coverage = 49.42%)
+TF authors (Developer;Files;Percentage):
+Jonne Haß;386;19.43
+Benjamin Neff;383;19.28
+Steffen van Bergerem;318;16.00
+danielgrippi;263;13.24
+maxwell;172;8.66
+cmrd Senya;131;6.59
+

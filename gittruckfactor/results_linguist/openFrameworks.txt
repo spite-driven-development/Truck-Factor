@@ -1,0 +1,7 @@
+TF = 4 (coverage = 46.61%)
+TF authors (Developer;Files;Percentage):
+arturo;459;53.62
+ofTheo;73;8.53
+Dan Rosser;59;6.89
+Nick Hardeman;56;6.54
+

@@ -1,0 +1,9 @@
+TF = 6 (coverage = 49.92%)
+TF authors (Developer;Files;Percentage):
+Matt Clay;2009;39.61
+Brian Coca;646;12.74
+Matt Martz;418;8.24
+Jordan Borean;339;6.68
+Toshio Kuratomi;297;5.86
+Sloane Hertel;287;5.66
+

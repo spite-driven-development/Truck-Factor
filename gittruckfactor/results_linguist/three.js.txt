@@ -1,0 +1,6 @@
+TF = 3 (coverage = 48.36%)
+TF authors (Developer;Files;Percentage):
+Gregg Tavares;400;25.79
+sunag;331;21.34
+Mr.doob;293;18.89
+

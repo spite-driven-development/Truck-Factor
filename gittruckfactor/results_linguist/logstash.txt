@@ -1,0 +1,10 @@
+TF = 7 (coverage = 49.47%)
+TF authors (Developer;Files;Percentage):
+Pier-Hugues Pellerin;211;15.96
+Armin;162;12.25
+Joao Duarte;153;11.57
+Andrew Cholakian;118;8.93
+Andrea Selva;102;7.72
+Colin Surprenant;84;6.35
+Dan Hermann;83;6.28
+

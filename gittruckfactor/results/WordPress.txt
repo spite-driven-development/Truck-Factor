@@ -1,0 +1,12 @@
+TF = 9 (coverage = 49.79%)
+TF authors (Developer;Files;Percentage):
+Andrew Ozz;683;15.33
+desrosj;664;14.90
+gziolo;661;14.84
+Sergey Biryukov;647;14.52
+ryan;346;7.77
+audrasjb;342;7.68
+youknowriad;307;6.89
+Peter Wilson;281;6.31
+Gary Pendergast;182;4.09
+

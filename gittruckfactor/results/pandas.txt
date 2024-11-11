@@ -1,0 +1,12 @@
+TF = 9 (coverage = 49.20%)
+TF authors (Developer;Files;Percentage):
+jbrockmendel;858;32.82
+Matthew Roeschke;281;10.75
+Jeff Reback;225;8.61
+Simon Hawkins;141;5.39
+Patrick Hoefler;109;4.17
+Joris Van den Bossche;103;3.94
+Tom Augspurger;103;3.94
+gfyoung;96;3.67
+Wes McKinney;95;3.63
+

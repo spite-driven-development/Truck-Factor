@@ -1,0 +1,53 @@
+TF = 50 (coverage = 49.97%)
+TF authors (Developer;Files;Percentage):
+The Android Open Source Project;1420;5.19
+Winson;526;1.92
+Fabian Kozynski;501;1.83
+Jeff Sharkey;472;1.73
+Adam Lesinski;471;1.72
+John Reck;450;1.65
+lpeter;438;1.60
+Caitlin Cassidy;398;1.46
+Dave Mankoff;392;1.43
+Alejandro Nijamkin;378;1.38
+Dianne Hackborn;376;1.37
+Anton Potapov;332;1.21
+Jason Monk;321;1.17
+Makoto Onuki;318;1.16
+Steve Elliott;278;1.02
+Matt Pietal;275;1.01
+Nataniel Borges;271;0.99
+Jeff DeCew;260;0.95
+Yohann Roussel;248;0.91
+Mike Lockwood;241;0.88
+Chaohui Wang;234;0.86
+Felipe Leme;232;0.85
+Svetoslav;231;0.84
+Miguel Aranda;231;0.84
+renn;229;0.84
+Evan Laird;226;0.83
+Dmitri Plotnikov;225;0.82
+Neil Fuller;210;0.77
+Jeff Brown;209;0.76
+Behnam Heydarshahi;203;0.74
+Mathew Inwood;202;0.74
+Joe Onorato;200;0.73
+Pablo Gamito;192;0.70
+Jordan Demeulenaere;186;0.68
+Jean-Baptiste Queru;185;0.68
+Jorim Jaggi;173;0.63
+John Wu;167;0.61
+Julia Reynolds;165;0.60
+Kevin Chyn;165;0.60
+Adrian Roos;163;0.60
+Yohei Yukawa;157;0.57
+Romain Guy;150;0.55
+Selim Cinek;149;0.54
+Soonil Nagarkar;149;0.54
+Joe Bolinger;148;0.54
+Lucas Silva;145;0.53
+Nick Chameyev;145;0.53
+John Spurlock;143;0.52
+Philip P. Moltmann;143;0.52
+Ryan Mitchell;143;0.52
+

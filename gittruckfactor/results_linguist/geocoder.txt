@@ -1,0 +1,4 @@
+TF = 1 (coverage = 48.76%)
+TF authors (Developer;Files;Percentage):
+Alex Reisner;129;53.31
+

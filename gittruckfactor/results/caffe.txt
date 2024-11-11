@@ -1,0 +1,8 @@
+TF = 5 (coverage = 46.65%)
+TF authors (Developer;Files;Percentage):
+Evan Shelhamer;216;30.81
+Jeff Donahue;136;19.40
+Yangqing Jia;82;11.70
+Jonathan R. Williford;61;8.70
+Sergey Karayev;50;7.13
+

@@ -1,0 +1,9 @@
+TF = 6 (coverage = 46.30%)
+TF authors (Developer;Files;Percentage):
+Patrick Lauber;455;27.58
+Jonas Obrist;240;14.55
+Vadim Sikora;209;12.67
+Fabian Braun;204;12.36
+Iacopo Spalletti;183;11.09
+Paulo;161;9.76
+

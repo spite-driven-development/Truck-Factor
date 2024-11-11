@@ -1,0 +1,5 @@
+TF = 2 (coverage = 45.71%)
+TF authors (Developer;Files;Percentage):
+Florian Bischof;507;50.60
+Valerio Bozzolan;187;18.66
+

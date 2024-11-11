@@ -1,0 +1,6 @@
+TF = 3 (coverage = 40.31%)
+TF authors (Developer;Files;Percentage):
+Liam DeBeasi;1227;55.95
+Brandy Carney;567;25.85
+Manu MA;366;16.69
+

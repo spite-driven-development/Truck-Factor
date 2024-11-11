@@ -1,0 +1,4 @@
+TF = 1 (coverage = 40.69%)
+TF authors (Developer;Files;Percentage):
+Henrique Moody;818;78.88
+
